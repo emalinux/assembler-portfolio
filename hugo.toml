@@ -1,7 +1,6 @@
 baseURL = "/"
 languageCode = "it"
 title = "Portfolio Assembler"
-theme = ""
 enableEmoji = true
 enableRobotsTXT = true
 
