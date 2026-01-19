@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}" />
+  </head>
+
+  <body>
+    <header>
+      <div class="container header-flex">
+        <div class="logo">
+          <a href="{{ "/" | relURL }}"><strong>{{ .Site.Title }}</strong></a>
+        </div>
+        <nav>
+          <ul class="nav">
+            <li><a href="{{ "/" | relURL }}">Home</a></li>
+            <li><a href="{{ "/chi-siamo/" | relURL }}">Chi siamo</a></li>
+            <li><a href="{{ "/contatti/" | relURL }}">Contatti</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      {{ block "main" . }}{{ end }}
+    </main>
+
+    <footer>
+      <div class="container">
+        <p>&copy; {{ now.Format "2006" }} Assembler Computer — Tutti i diritti riservati.</p>
+      </div>
+    </footer>
+  </body>
+</html>

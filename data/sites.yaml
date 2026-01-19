@@ -1,0 +1,26 @@
+- name: "Camping Piscina Demonte"
+  slug: "camping"
+  thumb: "img/camping-thumb.jpg"
+  description: "Campeggio di montagna con piscina panoramica."
+  stack: ["Hugo", "Netlify", "Multilingua"]
+  url: "https://campingpiscinademonte.com/"
+  featured: true
+  tags: ["Turismo", "Hugo"]
+
+- name: "TB Logistica"
+  slug: "tb"
+  thumb: "img/tb-thumb.jpg"
+  description: "Azienda trasporti animali e logistica Cuneo."
+  stack: ["Hugo", "Hosting Aruba", "Restyling completo"]
+  url: "https://tblogisticasrl.net/"
+  featured: true
+  tags: ["Logistica", "Restyling"]
+
+- name: "Iuliana David"
+  slug: "iuliana"
+  thumb: "img/iuliana-thumb.jpg"
+  description: "Mental Coach multilingua con design elegante."
+  stack: ["Hugo", "Multilingua", "Netlify", "Custom Layout"]
+  url: "https://iulianadavid.com/"
+  featured: true
+  tags: ["Coaching", "Eleganza", "Multilingua"]

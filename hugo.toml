@@ -1,0 +1,23 @@
+baseURL = "/"
+languageCode = "it"
+title = "Portfolio Assembler"
+theme = ""
+enableEmoji = true
+enableRobotsTXT = true
+
+[params]
+  description = "Portfolio dei siti web realizzati da Assembler Computer"
+  author = "Assembler Computer"
+  showDarkToggle = true
+
+[menu]
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Contatti"
+  url = "/contatti"
+  weight = 2
