@@ -1,80 +1,80 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolio Assembler</title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on Portfolio Assembler</description>
+    <title>Projects on Assembler Portfolio</title>
+    <link>//localhost:1313/en/progetti/</link>
+    <description>Recent content in Projects on Assembler Portfolio</description>
     <generator>Hugo</generator>
-    <language>it</language>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="//localhost:1313/en/progetti/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Camping Piscina Demonte</title>
-      <link>//localhost:1313/progetti/piscina/</link>
+      <link>//localhost:1313/en/progetti/piscina/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/progetti/piscina/</guid>
+      <guid>//localhost:1313/en/progetti/piscina/</guid>
       <description></description>
     </item>
     <item>
       <title>DP Progetti</title>
-      <link>//localhost:1313/progetti/dpprogetti/</link>
+      <link>//localhost:1313/en/progetti/dpprogetti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/progetti/dpprogetti/</guid>
+      <guid>//localhost:1313/en/progetti/dpprogetti/</guid>
       <description></description>
     </item>
     <item>
       <title>Spada Reale</title>
-      <link>//localhost:1313/progetti/spada-reale/</link>
+      <link>//localhost:1313/en/progetti/spada-reale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/progetti/spada-reale/</guid>
+      <guid>//localhost:1313/en/progetti/spada-reale/</guid>
       <description></description>
     </item>
     <item>
       <title>Iuliana David</title>
-      <link>//localhost:1313/progetti/iuliana/</link>
+      <link>//localhost:1313/en/progetti/iuliana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/progetti/iuliana/</guid>
+      <guid>//localhost:1313/en/progetti/iuliana/</guid>
       <description></description>
     </item>
     <item>
       <title>Agriturismo La Ciapeleta</title>
-      <link>//localhost:1313/progetti/ciapeleta/</link>
+      <link>//localhost:1313/en/progetti/ciapeleta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/progetti/ciapeleta/</guid>
+      <guid>//localhost:1313/en/progetti/ciapeleta/</guid>
       <description></description>
     </item>
     <item>
       <title>Palawan Tribe</title>
-      <link>//localhost:1313/progetti/palawan/</link>
+      <link>//localhost:1313/en/progetti/palawan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/progetti/palawan/</guid>
+      <guid>//localhost:1313/en/progetti/palawan/</guid>
       <description></description>
     </item>
     <item>
       <title>A Me Cà</title>
-      <link>//localhost:1313/progetti/ameca/</link>
+      <link>//localhost:1313/en/progetti/ameca/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/progetti/ameca/</guid>
+      <guid>//localhost:1313/en/progetti/ameca/</guid>
       <description></description>
     </item>
     <item>
       <title>La Legiun Straniera</title>
-      <link>//localhost:1313/progetti/legiun/</link>
+      <link>//localhost:1313/en/progetti/legiun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/progetti/legiun/</guid>
+      <guid>//localhost:1313/en/progetti/legiun/</guid>
       <description></description>
     </item>
     <item>
       <title>TB Logistica</title>
-      <link>//localhost:1313/progetti/tb-logistica/</link>
+      <link>//localhost:1313/en/progetti/tb-logistica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/progetti/tb-logistica/</guid>
+      <guid>//localhost:1313/en/progetti/tb-logistica/</guid>
       <description></description>
     </item>
     <item>
       <title>Hotel Moderno Demonte</title>
-      <link>//localhost:1313/progetti/hotel-moderno/</link>
+      <link>//localhost:1313/en/progetti/hotel-moderno/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/progetti/hotel-moderno/</guid>
+      <guid>//localhost:1313/en/progetti/hotel-moderno/</guid>
       <description></description>
     </item>
   </channel>

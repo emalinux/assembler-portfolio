@@ -1,0 +1,14 @@
+{{ define "main" }}
+  <section class="grid">
+    <div class="container grid-cards">
+      {{ range .Pages }}
+        <div class="card">
+          <img src="/{{ .Params.img }}" alt="{{ .Title }}" />
+          <h2>{{ .Title }}</h2>
+          <p>{{ .Params.description }}</p>
+          <a href="{{ .RelPermalink }}" class="btn">Guarda scheda tecnica</a>
+        </div>
+      {{ end }}
+    </div>
+  </section>
+{{ end }}

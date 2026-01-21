@@ -3,11 +3,15 @@ languageCode = "it"
 title = "Portfolio Assembler"
 enableEmoji = true
 enableRobotsTXT = true
+defaultContentLanguage = "it"
 
 [params]
   description = "Portfolio dei siti web realizzati da Assembler Computer"
   author = "Assembler Computer"
   showDarkToggle = true
+
+[pagination]
+  pagerSize = 6
 
 [menu]
 
@@ -20,3 +24,16 @@ enableRobotsTXT = true
   name = "Contatti"
   url = "/contatti"
   weight = 2
+
+[languages]
+  [languages.it]
+    weight = 1
+    languageName = "Italiano"
+    title = "Portfolio Assembler"
+    contentDir = "content/it"
+
+  [languages.en]
+    weight = 2
+    languageName = "English"
+    title = "Assembler Portfolio"
+    contentDir = "content/en"
