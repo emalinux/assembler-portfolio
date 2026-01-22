@@ -1,12 +1,7 @@
 {{ define "title" }}Home | {{ .Site.Title }}{{ end }}
 
 {{ define "main" }}
-<section class="hero">
-  <div class="container">
-    <h1>Benvenuto nel Portfolio Assembler</h1>
-    <p>Una selezione dei migliori progetti web realizzati su misura per aziende e professionisti. E Visionari.</p>
-  </div>
-</section>
+{{ partial "hero.html" . }}
 
 <section class="grid">
   <div class="container grid-cards">

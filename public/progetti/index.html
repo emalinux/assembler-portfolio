@@ -10,20 +10,34 @@
 
   <body>
     <header>
-      <div class="container header-flex">
-        <div class="logo">
-          <a href="/"><strong>Portfolio Assembler</strong></a>
-        </div>
-        <nav>
-          <ul class="nav">
-            <li><a href="/">Home</a></li>
-            <li><a href="/chi-siamo/">Chi siamo</a></li>
-            <li><a href="/contatti/">Contatti</a></li>
-          </ul>
-        </nav>
+    <div class="container header-flex">
+      <div class="logo">
+        <a href="/"><strong>Portfolio Assembler</strong></a>
       </div>
-    </header>
-
+      <button class="hamburger" id="hamburger" aria-label="Toggle menu">☰</button>
+      <nav>
+        <ul class="nav">
+          <li><a href="/">Home</a></li>
+          <li><a href="/chi-siamo/">Chi siamo</a></li>
+          <li><a href="/contatti/">Contatti</a></li>
+          
+          &lt;<li class="language-toggle">
+            
+              <a href="/en/progetti/">
+                
+                EN 🇬🇧
+              </a>
+            
+          </li>
+  
+          <li>
+            
+            <button id="theme-toggle" aria-label="Toggle dark mode">🌓</button>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
     <main>
       
   <section class="grid">
@@ -105,9 +119,12 @@
     </main>
 
     <footer>
-      <div class="container">
-        <p>&copy; 2026 Assembler Computer — Tutti i diritti riservati.</p>
-      </div>
-    </footer>
+    <div class="container">
+      <p>&copy; 2026 Assembler Computer — Tutti i diritti riservati.</p>
+    </div>
+  </footer>
+    <script src="/js/theme-toggle.js"></script>
+    <button id="scrollToTop" aria-label="Torna su">⬆️</button> 
+    <script src="/js/main.js"></script>   
   </body>
 </html>

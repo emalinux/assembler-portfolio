@@ -1,0 +1,29 @@
+<header>
+    <div class="container header-flex">
+      <div class="logo">
+        <a href="{{ "/" | relLangURL }}"><strong>{{ .Site.Title }}</strong></a>
+      </div>
+      <button class="hamburger" id="hamburger" aria-label="Toggle menu">☰</button>
+      <nav>
+        <ul class="nav">
+          <li><a href="{{ "/" | relLangURL }}">Home</a></li>
+          <li><a href="{{ "chi-siamo/" | relLangURL }}">Chi siamo</a></li>
+          <li><a href="{{ "contatti/" | relLangURL }}">Contatti</a></li>
+          
+          <<li class="language-toggle">
+            {{ range .Translations }}
+              <a href="{{ .RelPermalink }}">
+                {{ if eq .Lang "it" }}🇮🇹 IT{{ end }}
+                {{ if eq .Lang "en" }}EN 🇬🇧{{ end }}
+              </a>
+            {{ end }}
+          </li>
+  
+          <li>
+            <!-- 🌓 Toggle tema -->
+            {{ partial "toggle-theme.html" . }}
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>

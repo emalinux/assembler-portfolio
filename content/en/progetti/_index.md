@@ -1,4 +1,5 @@
 ---
-title: "Projects"
-description: "Web portfolio made by Assembler Computer"
+title: ""
+url: "/en/progetti/"
+aliases: ["/en/"]
 ---

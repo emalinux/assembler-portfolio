@@ -9,29 +9,14 @@
   </head>
 
   <body>
-    <header>
-      <div class="container header-flex">
-        <div class="logo">
-          <a href="{{ "/" | relURL }}"><strong>{{ .Site.Title }}</strong></a>
-        </div>
-        <nav>
-          <ul class="nav">
-            <li><a href="{{ "/" | relURL }}">Home</a></li>
-            <li><a href="{{ "/chi-siamo/" | relURL }}">Chi siamo</a></li>
-            <li><a href="{{ "/contatti/" | relURL }}">Contatti</a></li>
-          </ul>
-        </nav>
-      </div>
-    </header>
-
+    {{ partial "header.html" . }}
     <main>
       {{ block "main" . }}{{ end }}
     </main>
 
-    <footer>
-      <div class="container">
-        <p>&copy; {{ now.Format "2006" }} Assembler Computer — Tutti i diritti riservati.</p>
-      </div>
-    </footer>
+    {{ partial "footer.html" . }}
+    <script src="{{ "js/theme-toggle.js" | relURL }}"></script>
+    <button id="scrollToTop" aria-label="Torna su">⬆️</button> 
+    <script src="{{ "js/main.js" | relURL }}"></script>   
   </body>
 </html>

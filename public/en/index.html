@@ -11,28 +11,47 @@
 
   <body>
     <header>
-      <div class="container header-flex">
-        <div class="logo">
-          <a href="/"><strong>Assembler Portfolio</strong></a>
-        </div>
-        <nav>
-          <ul class="nav">
-            <li><a href="/">Home</a></li>
-            <li><a href="/chi-siamo/">Chi siamo</a></li>
-            <li><a href="/contatti/">Contatti</a></li>
-          </ul>
-        </nav>
+    <div class="container header-flex">
+      <div class="logo">
+        <a href="/en/"><strong>Assembler Portfolio</strong></a>
       </div>
-    </header>
-
+      <button class="hamburger" id="hamburger" aria-label="Toggle menu">☰</button>
+      <nav>
+        <ul class="nav">
+          <li><a href="/en/">Home</a></li>
+          <li><a href="/en/chi-siamo/">Chi siamo</a></li>
+          <li><a href="/en/contatti/">Contatti</a></li>
+          
+          &lt;<li class="language-toggle">
+            
+              <a href="/">
+                🇮🇹 IT
+                
+              </a>
+            
+          </li>
+  
+          <li>
+            
+            <button id="theme-toggle" aria-label="Toggle dark mode">🌓</button>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
     <main>
       
 <section class="hero">
-  <div class="container">
-    <h1>Benvenuto nel Portfolio Assembler</h1>
-    <p>Una selezione dei migliori progetti web realizzati su misura per aziende e professionisti. E Visionari.</p>
-  </div>
-</section>
+    <div class="container hero-flex">
+      <div class="hero-text">
+        <h1>Welcome to the Assembler Portfolio</h1>
+        <p>A selection of top web projects crafted for businesses and professionals. And visionaries.</p>
+      </div>
+      <div class="hero-img">
+        <img src="/img/manuel-hero.webp" alt="Foto di Manuel Assembler" />
+      </div>
+    </div>
+  </section>
 
 <section class="grid">
   <div class="container grid-cards">
@@ -124,9 +143,12 @@
     </main>
 
     <footer>
-      <div class="container">
-        <p>&copy; 2026 Assembler Computer — Tutti i diritti riservati.</p>
-      </div>
-    </footer>
+    <div class="container">
+      <p>&copy; 2026 Assembler Computer — Tutti i diritti riservati.</p>
+    </div>
+  </footer>
+    <script src="/js/theme-toggle.js"></script>
+    <button id="scrollToTop" aria-label="Torna su">⬆️</button> 
+    <script src="/js/main.js"></script>   
   </body>
 </html>
