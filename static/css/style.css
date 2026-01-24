@@ -45,6 +45,20 @@ body.dark-mode {
   border-color: #444;
 }
 
+.logo-img {
+  height: 60px;
+  width: auto;
+  display: none;
+}
+
+[data-theme="light"] .logo-img.light {
+  display: inline;
+}
+
+[data-theme="dark"] .logo-img.dark {
+  display: inline;
+}
+
 /* ============================================================
    2. HEADER + MENU
 ============================================================ */
@@ -128,35 +142,91 @@ header {
   padding-bottom: 4rem;
 }
 
+/* CARD BASE */
 .card {
-  background: #ffffff;
-  border: 1px solid #ddd;
-  padding: 1rem;
-  border-radius: 8px;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  background: var(--card-bg, #ffffff);
+  border: 1px solid var(--card-border, #ddd);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.04);
+  padding: 1.2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: transform 0.2s ease, box-shadow 0.3s ease;
+  text-align: center;
 }
 
 .card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+  transform: translateY(-3px);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
 }
 
 .card img {
   width: 100%;
-  height: 200px; /* o 250px se preferisci più alte */
+  height: 200px;
   object-fit: cover;
-  border-radius: 5px;
+  border-radius: 6px;
 }
 
+/* TITOLO */
 .card h2 {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
+  font-weight: 600;
   margin-top: 1rem;
+  margin-bottom: 0.8rem;
+  text-align: center;
+  color: var(--title-color);
 }
 
+/* DESCRIZIONE */
 .card p {
+  text-align: justify;
   font-size: 0.95rem;
-  color: #444;
-  margin: 0.5rem 0 1rem;
+  color: var(--text, #070707);
+  margin-bottom: 1rem;
+}
+
+/* BOTTONE */
+.card a.btn {
+  align-self: center;
+  padding: 0.5rem 1rem;
+  background: var(--btn-bg, #000);
+  color: var(--btn-text, #fff);
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: background-color 0.3s;
+}
+
+.card a.btn:hover {
+  background: var(--btn-hover, #222);
+}
+
+/* PAGINAZIONE */
+.pagination {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 2rem;
+}
+
+.pagination a {
+  padding: 0.4rem 0.8rem;
+  background-color: var(--pagination-bg, #f0f0f0);
+  color: var(--pagination-text, #333);
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background-color 0.2s ease;
+}
+
+.pagination a:hover {
+  background-color: var(--pagination-hover, #e0e0e0);
+}
+
+.pagination a.active {
+  background-color: var(--pagination-active-bg, #000);
+  color: var(--pagination-active-text, #fff);
 }
 
 /* ============================================================
@@ -224,4 +294,75 @@ footer {
 
 #theme-toggle:hover {
   transform: rotate(20deg) scale(1.2);
+}
+
+/* =============================
+   LIGHT THEME (default)
+============================= */
+:root[data-theme="light"] {
+  --bg-color: #f9f9f5; /* meno bianco sparato */
+  --text-color: #222;
+  --accent-color: #ffcc00;
+  --card-bg: #ffffff;
+  --card-border: #dddddd;
+  --btn-bg: #111;
+  --btn-color: #fff;
+  --btn-hover-bg: #333;
+  --title-color: #333333;
+}
+
+/* =============================
+   DARK THEME
+============================= */
+:root[data-theme="dark"] {
+  --title-color: #fffb00;
+  --bg: #000;
+  --text: #eee;
+  --card-bg: #111;
+  --card-border: #444;
+  --btn-bg: #ff0;
+  --btn-text: #000;
+  --btn-hover: #f5ea00;
+  --pagination-bg: #222;
+  --pagination-text: #fff;
+  --pagination-hover: #333;
+  --pagination-active-bg: #ff0;
+  --pagination-active-text: #000;
+  
+}
+
+/* =============================
+   PATCH TEMA SCURO
+============================= */
+
+/* HEADER */
+[data-theme="dark"] header {
+  background-color: #000;
+  box-shadow: 0 2px 5px rgba(255, 255, 255, 0.05);
+}
+
+[data-theme="dark"] .nav a {
+  color: #fff;
+}
+
+[data-theme="dark"] .nav a:hover {
+  color: #ff0;
+}
+
+/* HERO */
+[data-theme="dark"] .hero {
+  background-color: #111;
+  color: #eee;
+}
+
+/* FOOTER */
+[data-theme="dark"] footer {
+  background-color: #000;
+  color: #aaa;
+}
+
+/* Scroll-to-top button */
+[data-theme="dark"] #scrollToTop {
+  background-color: #ff0;
+  color: #000;
 }

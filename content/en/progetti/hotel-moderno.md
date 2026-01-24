@@ -1,6 +1,6 @@
 ---
 title: "Hotel Moderno Demonte"
-img: "img/hotel‑moderno.webp"
+thumb: "img/under.webp"
 description: "New hotel site under construction for Demonte. Development stage, demo content."
 draft: false
 weight: 10

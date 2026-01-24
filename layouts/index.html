@@ -6,87 +6,27 @@
 <section class="grid">
   <div class="container grid-cards">
 
-    <!-- Card demo 1 -->
-    <div class="card">
-      <img src="/img/piscina.webp" alt="Camping Piscina" />
-      <h2>Camping Piscina Demonte</h2>
-      <p>Sito turistico multilingua, realizzato con Hugo e ottimizzato per dispositivi mobili.</p>
-      <a href="#" class="btn">Guarda scheda tecnica</a>
-    </div>
+    {{ $lang := .Site.Language.Lang }}
+    {{ $pages := where .Site.RegularPages "Section" "progetti" }}
+    {{ $paginator := .Paginate $pages 6 }}
 
-    <!-- Card demo 2 -->
-    <div class="card">
-      <img src="/img/dpprogetti.webp" alt="DP Progetti" />
-      <h2>DP Progetti</h2>
-      <p>DP Progetti – Studio Consulenza e Progettazione Tecnica</p>
-      <a href="#" class="btn">Guarda scheda tecnica</a>
-    </div>
+    {{ range $paginator.Pages }}
+      {{ partial "card.html" . }}
+    {{ end }}
 
-    <!-- Card demo 3 -->
-    <div class="card">
-     <img src="/img/spada.webp" alt="Spada Reale" />
-     <h2>Spada Reale</h2>
-     <p>Sito onepage elegante per struttura storica con ristorante, camere e bottega tipica.</p>
-     <a href="#" class="btn">Guarda scheda tecnica</a>
-    </div>
+  </div>
 
-    <!-- Card demo 4 -->
-    <div class="card">
-     <img src="/img/iuliana.webp" alt="Iuliana David" />
-     <h2>Iuliana David</h2>
-     <p>Sito personale per mental coach multilingua, con pagine statiche e layout responsive.</p>
-     <a href="#" class="btn">Guarda scheda tecnica</a>
-    </div>
-    
-    <!-- Card demo 5 -->
-    <div class="card">
-      <img src="/img/ciapeleta.webp" alt="Agriturismo La Ciapeleta" />
-      <h2>Agriturismo La Ciapeleta</h2>
-      <p>Sito multipagina elegante per struttura ricettiva. Tradizionale fuori, moderno dentro.</p>
-      <a href="#" class="btn">Guarda scheda tecnica</a>
-    </div>
-    
-    <!-- Card demo 6 -->
-    <div class="card">
-     <img src="/img/palawan.webp" alt="Palawan Tribe Dolce Amore" />
-     <h2>Palawan Tribe</h2>
-     <p>Sito informativo multilingua per associazione culturale filippina. Progetto solidale pro bono.</p>
-     <a href="#" class="btn">Guarda scheda tecnica</a>
-    </div>
-
-    <!-- Card demo 7 -->
-    <div class="card">
-      <img src="/img/ameca.webp" alt="A Me Cà" />
-      <h2>A Me Cà</h2>
-      <p>Bed & Breakfast accogliente ad Albisola Marina. Sito semplice ma efficace, pensato per dispositivi mobili.</p>
-      <a href="#" class="btn">Guarda scheda tecnica</a>
-    </div>
-     
-    <!-- Card demo 8 -->
-    <div class="card">
-      <img src="/img/legiun.webp" alt="La Legiun Straniera" />
-      <h2>La Legiun Straniera</h2>
-      <p>Casa vacanze nel cuore di Fontanelle di Boves. Layout elegante e multilingua. Prenotazioni gestite esternamente.</p>
-      <a href="#" class="btn">Guarda scheda tecnica</a>
-    </div> 
-
-    <!-- Card demo 9 -->
-     <div class="card">
-      <img src="/img/tb.webp" alt="TB Logistica" />
-      <h2>TB Logistica</h2>
-      <p>Sito vetrina per azienda di trasporti e logistica. Interfaccia responsive, stile pulito. Ottimizzato per SEO.</p>
-      <a href="#" class="btn">Guarda scheda tecnica</a>
-    </div>
-
-    <!-- Card demo 10 -->
-    <div class="card">
-      <img src="/img/hotel-moderno.webp" alt="Hotel Moderno" />
-      <h2>Hotel Moderno Demonte</h2>
-      <p>Nuovo sito in costruzione per hotel a Demonte. Progetto in fase di sviluppo, contenuti demo.</p>
-      <a href="#" class="btn">Guarda scheda tecnica</a>
-    </div>
-    <!-- Altre card in futuro -->
-    
+  <div class="pagination">
+    {{ if .Paginator.HasPrev }}
+      <a class="prev" href="{{ .Paginator.Prev.URL }}">← Indietro</a>
+    {{ end }}
+    {{ range .Paginator.Pagers }}
+      <a href="{{ .URL }}" class="{{ if eq . .Paginator }}active{{ end }}">{{ .PageNumber }}</a>
+    {{ end }}
+    {{ if .Paginator.HasNext }}
+      <a class="next" href="{{ .Paginator.Next.URL }}">Avanti →</a>
+    {{ end }}
   </div>
 </section>
+
 {{ end }}

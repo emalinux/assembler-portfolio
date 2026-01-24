@@ -1,10 +1,24 @@
 const toggle = document.getElementById('theme-toggle');
-toggle.addEventListener('click', () => {
-  document.body.classList.toggle('dark-mode');
-  localStorage.setItem('theme', document.body.classList.contains('dark-mode') ? 'dark' : 'light');
-});
+const htmlTag = document.documentElement;
+const icon = document.getElementById('theme-icon');
 
-// Mantieni preferenza
-if (localStorage.getItem('theme') === 'dark') {
-  document.body.classList.add('dark-mode');
+// All'avvio, applica il tema salvato o automatico
+const savedTheme = localStorage.getItem("theme");
+
+if (savedTheme) {
+  htmlTag.setAttribute("data-theme", savedTheme);
+  icon.textContent = savedTheme === "dark" ? "☀️" : "🌙";
+} else {
+  const hour = new Date().getHours();
+  const theme = hour >= 18 || hour < 6 ? "dark" : "light";
+  htmlTag.setAttribute("data-theme", theme);
+  icon.textContent = theme === "dark" ? "☀️" : "🌙";
 }
+
+toggle.addEventListener("click", () => {
+  const currentTheme = htmlTag.getAttribute("data-theme");
+  const newTheme = currentTheme === "dark" ? "light" : "dark";
+  htmlTag.setAttribute("data-theme", newTheme);
+  localStorage.setItem("theme", newTheme);
+  icon.textContent = newTheme === "dark" ? "☀️" : "🌙";
+});
