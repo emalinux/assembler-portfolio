@@ -3,29 +3,32 @@
 {{ define "main" }}
 {{ partial "hero.html" . }}
 
-<section class="grid">
-  <div class="container grid-cards">
+<section id="progetti" class="grid">
+  <div class="container">
 
-    {{ $lang := .Site.Language.Lang }}
-    {{ $pages := where .Site.RegularPages "Section" "progetti" }}
-    {{ $paginator := .Paginate $pages 6 }}
+    <h2 class="section-title">I nostri progetti</h2>
 
-    {{ range $paginator.Pages }}
-      {{ partial "card.html" . }}
-    {{ end }}
+    <div class="grid-cards">
+      {{ $pages := where .Site.RegularPages "Section" "progetti" }}
+      {{ $paginator := .Paginate $pages 6 }}
 
-  </div>
+      {{ range $paginator.Pages }}
+        {{ partial "card.html" . }}
+      {{ end }}
+    </div>
 
-  <div class="pagination">
-    {{ if .Paginator.HasPrev }}
-      <a class="prev" href="{{ .Paginator.Prev.URL }}">← Indietro</a>
-    {{ end }}
-    {{ range .Paginator.Pagers }}
-      <a href="{{ .URL }}" class="{{ if eq . .Paginator }}active{{ end }}">{{ .PageNumber }}</a>
-    {{ end }}
-    {{ if .Paginator.HasNext }}
-      <a class="next" href="{{ .Paginator.Next.URL }}">Avanti →</a>
-    {{ end }}
+    <div class="pagination">
+      {{ if .Paginator.HasPrev }}
+        <a class="prev" href="{{ .Paginator.Prev.URL }}">← Indietro</a>
+      {{ end }}
+      {{ range .Paginator.Pagers }}
+        <a href="{{ .URL }}" class="{{ if eq . .Paginator }}active{{ end }}">{{ .PageNumber }}</a>
+      {{ end }}
+      {{ if .Paginator.HasNext }}
+        <a class="next" href="{{ .Paginator.Next.URL }}">Avanti →</a>
+      {{ end }}
+    </div>
+
   </div>
 </section>
 
