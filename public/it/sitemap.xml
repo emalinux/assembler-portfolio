@@ -134,6 +134,10 @@
                 href="//localhost:1313/categories/"
                 />
   </url><url>
+    <loc>//localhost:1313/chi-siamo/</loc>
+  </url><url>
+    <loc>//localhost:1313/contatti/</loc>
+  </url><url>
     <loc>//localhost:1313/progetti/</loc>
     <xhtml:link
                 rel="alternate"

@@ -77,5 +77,19 @@
       <guid>//localhost:1313/progetti/hotel-moderno/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Chi siamo</title>
+      <link>//localhost:1313/chi-siamo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/chi-siamo/</guid>
+      <description>&lt;section class=&#34;chi-siamo&#34; style=&#34;display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: space-between; gap: 2rem; margin-top: 2rem;&#34;&gt;&#xA;&lt;!-- 🔹 COLONNA TESTO --&gt;&#xA;&lt;div style=&#34;flex: 1 1 500px; text-align: justify;&#34;&gt;&#xA;&lt;h1&gt;Assembler Studio&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Assembler Studio&lt;/strong&gt; è il ramo creativo e digitale di &#xA;&lt;a href=&#34;https://www.assemblercomputer.net&#34; target=&#34;_blank&#34;&gt;Assembler Computer&lt;/a&gt;, storico laboratorio informatico con sede a Cuneo (CN), fondato da Davy tanti anni fa.&lt;/p&gt;&#xA;&lt;p&gt;Siamo nati con l&#39;obiettivo di &lt;strong&gt;portare online idee, progetti, aziende e storie&lt;/strong&gt;. &#xA;Realizziamo siti web su misura, curiamo la loro identità visiva e supportiamo i nostri clienti con passione, ironia e concretezza.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contatti</title>
+      <link>//localhost:1313/contatti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/contatti/</guid>
+      <description>&lt;p&gt;📨 &lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:info@assemblercomputer.net&#34;&gt;info@assemblercomputer.net&lt;/a&gt;&lt;br&gt;&#xA;📍 &lt;strong&gt;Sede:&lt;/strong&gt; via XX Settembre 11 - Cuneo (CN)&lt;br&gt;&#xA;🌐 &lt;strong&gt;Sito:&lt;/strong&gt; &lt;a href=&#34;https://www.assemblercomputer.net&#34;&gt;www.assemblercomputer.net&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Siamo sempre pronti ad ascoltare nuove idee e a offrire soluzioni pratiche.&lt;/p&gt;&#xA;&lt;p&gt;Contattaci senza impegno per:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;richieste tecniche o urgenze&lt;/li&gt;&#xA;&lt;li&gt;consulenze informatiche&lt;/li&gt;&#xA;&lt;li&gt;sviluppo di un sito web&lt;/li&gt;&#xA;&lt;li&gt;collaborazioni e progetti personalizzati&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Ti risponderemo in tempi rapidi!&lt;/p&gt;&#xA;&lt;section class=&#34;contact&#34;&gt;&#xA;  &lt;form class=&#34;contact-form&#34; method=&#34;POST&#34; netlify&gt;&#xA;    &lt;label for=&#34;name&#34;&gt;Nome *&lt;/label&gt;&#xA;    &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; required /&gt;&#xA;&#xA;    &lt;label for=&#34;email&#34;&gt;Email *&lt;/label&gt;&#xA;    &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; required /&gt;&#xA;&#xA;    &lt;label for=&#34;message&#34;&gt;Messaggio *&lt;/label&gt;&#xA;    &lt;textarea id=&#34;message&#34; name=&#34;message&#34; rows=&#34;5&#34; required&gt;&lt;/textarea&gt;&#xA;&#xA;    &lt;button type=&#34;submit&#34;&gt;Invia messaggio&lt;/button&gt;&#xA;  &lt;/form&gt;&#xA;&lt;/section&gt;</description>
+    </item>
   </channel>
 </rss>

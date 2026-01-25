@@ -77,5 +77,19 @@
       <guid>//localhost:1313/en/progetti/hotel-moderno/</guid>
       <description></description>
     </item>
+    <item>
+      <title>About us</title>
+      <link>//localhost:1313/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/about/</guid>
+      <description>&lt;section class=&#34;about-us&#34; style=&#34;display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: space-between; gap: 2rem; margin-top: 2rem;&#34;&gt;&#xA;&lt;!-- TEXT COLUMN --&gt;&#xA;&lt;div style=&#34;flex: 1 1 500px; text-align: justify;&#34;&gt;&#xA;&lt;h1&gt;Assembler Studio&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Assembler Studio&lt;/strong&gt; is the creative and digital branch of &#xA;&lt;a href=&#34;https://www.assemblercomputer.net&#34; target=&#34;_blank&#34;&gt;Assembler Computer&lt;/a&gt;, a long-standing IT lab based in Cuneo (Italy), established by Davy many years ago.&lt;/p&gt;&#xA;&lt;p&gt;We design and build tailor-made websites, helping companies, professionals and organizations showcase their identity with clarity, impact, and visual coherence.&lt;/p&gt;&#xA;&lt;p&gt;Our approach is practical, human-centered and tech-driven: we deliver modern, fast, secure static websites, created with care and long-term vision.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>//localhost:1313/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/contact/</guid>
+      <description>&lt;p&gt;📨 &lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:info@assemblercomputer.net&#34;&gt;info@assemblercomputer.net&lt;/a&gt;&lt;br&gt;&#xA;📍 &lt;strong&gt;Location:&lt;/strong&gt; Cuneo, Piedmont, Italy&lt;br&gt;&#xA;🌐 &lt;strong&gt;Website:&lt;/strong&gt; &lt;a href=&#34;https://www.assemblercomputer.net&#34;&gt;www.assemblercomputer.net&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;We’re always ready to hear new ideas and provide practical solutions.&lt;/p&gt;&#xA;&lt;p&gt;Contact us for:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;technical requests or emergencies&lt;/li&gt;&#xA;&lt;li&gt;IT consulting&lt;/li&gt;&#xA;&lt;li&gt;custom website development&lt;/li&gt;&#xA;&lt;li&gt;collaborations and unique projects&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;We’ll get back to you quickly!&lt;/p&gt;&#xA;&lt;section class=&#34;contact&#34;&gt;&#xA;  &lt;form class=&#34;contact-form&#34; method=&#34;POST&#34; netlify&gt;&#xA;    &lt;label for=&#34;name&#34;&gt;Nome *&lt;/label&gt;&#xA;    &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; required /&gt;&#xA;&#xA;    &lt;label for=&#34;email&#34;&gt;Email *&lt;/label&gt;&#xA;    &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; required /&gt;&#xA;&#xA;    &lt;label for=&#34;message&#34;&gt;Messaggio *&lt;/label&gt;&#xA;    &lt;textarea id=&#34;message&#34; name=&#34;message&#34; rows=&#34;5&#34; required&gt;&lt;/textarea&gt;&#xA;&#xA;    &lt;button type=&#34;submit&#34;&gt;Invia messaggio&lt;/button&gt;&#xA;  &lt;/form&gt;&#xA;&lt;/section&gt;</description>
+    </item>
   </channel>
 </rss>

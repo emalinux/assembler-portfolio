@@ -8,25 +8,30 @@
       </div>
       <button class="hamburger" id="hamburger" aria-label="Toggle menu">☰</button>
       <nav>
-        <ul class="nav">
-          <li><a href="{{ "/" | relLangURL }}">Home</a></li>
+       <ul class="nav">
+         <li><a href="{{ "/" | relLangURL }}">Home</a></li>
+
+        {{ if eq .Site.Language.Lang "it" }}
           <li><a href="{{ "chi-siamo/" | relLangURL }}">Chi siamo</a></li>
           <li><a href="{{ "contatti/" | relLangURL }}">Contatti</a></li>
-          
-          <<li class="language-toggle">
-            {{ range .Translations }}
-              <a href="{{ .RelPermalink }}">
-                {{ if eq .Lang "it" }}🇮🇹 IT{{ end }}
-                {{ if eq .Lang "en" }}EN 🇬🇧{{ end }}
-              </a>
-            {{ end }}
-          </li>
-  
-          <li>
-            <!-- 🌓 Toggle tema -->
-            {{ partial "toggle-theme.html" . }}
-          </li>
-        </ul>
+        {{ else if eq .Site.Language.Lang "en" }}
+          <li><a href="{{ "about/" | relLangURL }}">About</a></li>
+          <li><a href="{{ "contact/" | relLangURL }}">Contact</a></li>
+        {{ end }}
+
+        <li class="language-toggle">
+          {{ range .Translations }}
+            <a href="{{ .RelPermalink }}">
+              {{ if eq .Lang "it" }}🇮🇹 IT{{ end }}
+              {{ if eq .Lang "en" }}🇬🇧 EN{{ end }}
+            </a>
+          {{ end }}
+        </li>
+
+        <li>
+          {{ partial "toggle-theme.html" . }}
+        </li>
+      </ul>
       </nav>
     </div>
   </header>

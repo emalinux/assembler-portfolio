@@ -134,6 +134,8 @@
                 href="//localhost:1313/en/progetti/"
                 />
   </url><url>
+    <loc>//localhost:1313/en/about/</loc>
+  </url><url>
     <loc>//localhost:1313/en/</loc>
     <xhtml:link
                 rel="alternate"
@@ -157,6 +159,8 @@
                 hreflang="en"
                 href="//localhost:1313/en/categories/"
                 />
+  </url><url>
+    <loc>//localhost:1313/en/contact/</loc>
   </url><url>
     <loc>//localhost:1313/en/tags/</loc>
     <xhtml:link

@@ -1,14 +1,19 @@
 baseURL = "/"
 languageCode = "it"
-title = "Portfolio Assembler"
+title = "Assembler Studio"
 enableEmoji = true
 enableRobotsTXT = true
 defaultContentLanguage = "it"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true 
+
 [params]
-  description = "Portfolio dei siti web realizzati da Assembler Computer"
+  description = "Portfolio dei progetti e siti web realizzati da Assembler Computer"
   author = "Assembler Computer"
-  showDarkToggle = true
+  showDarkToggle = true 
 
 [pagination]
   paginate = 6
