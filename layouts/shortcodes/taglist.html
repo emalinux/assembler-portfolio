@@ -1,0 +1,7 @@
+<span class="taglist">
+  {{- $tagMap := dict "Hugo" "Sito statico con framework Hugo" "Turismo" "Settore turistico e ricettivo" "Camping" "Campeggio o struttura outdoor" "Statico" "Sito statico, veloce e sicuro" -}}
+  {{- range split (.Get "tags") "," -}}
+    {{- $tag := trim . " " -}}
+    <span class="tag" title="{{ index $tagMap $tag }}">{{ $tag }}</span>
+  {{- end -}}
+</span>

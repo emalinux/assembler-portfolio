@@ -134,8 +134,6 @@
                 href="//localhost:1313/en/progetti/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/about/</loc>
-  </url><url>
     <loc>//localhost:1313/en/</loc>
     <xhtml:link
                 rel="alternate"
@@ -146,6 +144,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/en/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/tags/camping/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/camping/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/camping/"
                 />
   </url><url>
     <loc>//localhost:1313/en/categories/</loc>
@@ -162,6 +172,20 @@
   </url><url>
     <loc>//localhost:1313/en/contact/</loc>
   </url><url>
+    <loc>//localhost:1313/en/tags/hugo/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/hugo/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/tags/static/</loc>
+  </url><url>
     <loc>//localhost:1313/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -173,5 +197,9 @@
                 hreflang="en"
                 href="//localhost:1313/en/tags/"
                 />
+  </url><url>
+    <loc>//localhost:1313/en/tags/tourism/</loc>
+  </url><url>
+    <loc>//localhost:1313/en/about/</loc>
   </url>
 </urlset>

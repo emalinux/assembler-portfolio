@@ -1,81 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Assembler Portfolio</title>
-    <link>//localhost:1313/en/progetti/</link>
-    <description>Recent content on Assembler Portfolio</description>
+    <title>Hugo on Assembler Portfolio</title>
+    <link>//localhost:1313/en/tags/hugo/</link>
+    <description>Recent content in Hugo on Assembler Portfolio</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="//localhost:1313/en/progetti/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/en/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Camping Piscina Demonte</title>
       <link>//localhost:1313/en/progetti/piscina/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/en/progetti/piscina/</guid>
       <description>&lt;img src=&#34;//localhost:1313/img/piscina.webp&#34; alt=&#34;Camping Piscina Demonte&#34; class=&#34;project-hero&#34; /&gt;&#xA;&lt;h2 id=&#34;-overview&#34;&gt;🏕️ Overview&lt;/h2&gt;&#xA;&lt;p&gt;Official website of &lt;strong&gt;Camping Piscina Demonte&lt;/strong&gt;, built with Hugo and deployed via Netlify.&lt;/p&gt;&#xA;&lt;p&gt;Easy to navigate, elegant on all devices, and custom-made to convey the experience of a mountain stay.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://campingpiscinademonte.com/&#34;&gt;🌐 Visit the site →&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-technologies&#34;&gt;🚀 Technologies&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hugo&lt;/strong&gt; (v0.121.2 extended)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Netlify&lt;/strong&gt; (automatic deploy via Git)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt; (versioning and collaboration)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Custom theme&lt;/strong&gt; (layouts, shortcodes, partials)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Responsive CSS&lt;/strong&gt; styling&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-project-structure&#34;&gt;📂 Project Structure&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-plaintext&#34; data-lang=&#34;plaintext&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;content/it/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;├── _index.md&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;├── chi-siamo.md&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;├── servizi/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;├── galleria/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;static/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;├── img/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;layouts/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;├── _default/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;├── partials/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;netlify.toml&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;✨ Key Features&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;•Dynamic hero section and featured areas&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;•Cards for chalet, pitches, pool, igloo, etc.&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;•Responsive photo gallery&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;•Editable sections (Regulation, Price List)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;•Contact section with map, phone and form&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;---&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;-dev--testing&#34;&gt;🛠️ Dev &amp;amp; testing&lt;/h2&gt;&#xA;&lt;p&gt;Per testare il sito in locale:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DP Progetti</title>
-      <link>//localhost:1313/en/progetti/dpprogetti/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/progetti/dpprogetti/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Spada Reale</title>
-      <link>//localhost:1313/en/progetti/spada-reale/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/progetti/spada-reale/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Iuliana David</title>
-      <link>//localhost:1313/en/progetti/iuliana/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/progetti/iuliana/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Agriturismo La Ciapeleta</title>
-      <link>//localhost:1313/en/progetti/ciapeleta/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/progetti/ciapeleta/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Palawan Tribe</title>
-      <link>//localhost:1313/en/progetti/palawan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/progetti/palawan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>A Me Cà</title>
-      <link>//localhost:1313/en/progetti/ameca/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/progetti/ameca/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>La Legiun Straniera</title>
-      <link>//localhost:1313/en/progetti/legiun/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/progetti/legiun/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>TB Logistica</title>
-      <link>//localhost:1313/en/progetti/tb-logistica/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/progetti/tb-logistica/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hotel Moderno Demonte</title>
-      <link>//localhost:1313/en/progetti/hotel-moderno/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/progetti/hotel-moderno/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

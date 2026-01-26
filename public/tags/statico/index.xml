@@ -1,81 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>I Progetti on Portfolio Assembler</title>
-    <link>//localhost:1313/progetti/</link>
-    <description>Recent content in I Progetti on Portfolio Assembler</description>
+    <title>Statico on Portfolio Assembler</title>
+    <link>//localhost:1313/tags/statico/</link>
+    <description>Recent content in Statico on Portfolio Assembler</description>
     <generator>Hugo</generator>
     <language>it</language>
-    <atom:link href="//localhost:1313/progetti/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/statico/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Camping Piscina Demonte</title>
       <link>//localhost:1313/progetti/piscina/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/progetti/piscina/</guid>
       <description>&lt;img src=&#34;//localhost:1313/img/piscina.webp&#34; alt=&#34;Camping Piscina Demonte&#34; class=&#34;project-hero&#34; /&gt;&#xA;&lt;h2 id=&#34;-descrizione&#34;&gt;🏕️ Descrizione&lt;/h2&gt;&#xA;&lt;p&gt;Sito ufficiale del campeggio &lt;strong&gt;Camping Piscina Demonte&lt;/strong&gt;, realizzato con Hugo e pubblicato tramite Netlify.&lt;/p&gt;&#xA;&lt;p&gt;Semplice da navigare, elegante su ogni dispositivo, e costruito su misura per raccontare l’esperienza di un soggiorno in montagna.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://campingpiscinademonte.com/&#34;&gt;🌐 Visita il sito →&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-tecnologie&#34;&gt;🚀 Tecnologie&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hugo&lt;/strong&gt; (v0.121.2 extended)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Netlify&lt;/strong&gt; (hosting &amp;amp; deploy automatico da Git)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt; (versionamento e collaborazione)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tema custom&lt;/strong&gt; (layouts, shortcodes, partials)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;CSS responsive&lt;/strong&gt; personalizzato&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-struttura-del-progetto&#34;&gt;📂 Struttura del progetto&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-plaintext&#34; data-lang=&#34;plaintext&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;content/it/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;├── _index.md&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;├── chi-siamo.md&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;├── servizi/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;├── galleria/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;static/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;├── img/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;layouts/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;├── _default/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;├── partials/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;netlify.toml&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-funzionalità-principali&#34;&gt;✨ Funzionalità principali&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Hero dinamico e sezioni in evidenza&lt;/li&gt;&#xA;&lt;li&gt;Card per chalet, piazzole, piscina, igloo, ecc.&lt;/li&gt;&#xA;&lt;li&gt;Galleria fotografica responsive&lt;/li&gt;&#xA;&lt;li&gt;Sezioni aggiornabili (Regolamento, Listino)&lt;/li&gt;&#xA;&lt;li&gt;Contatti con mappa, telefono e form&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-dev--testing&#34;&gt;🛠️ Dev &amp;amp; testing&lt;/h2&gt;&#xA;&lt;p&gt;Per testare il sito in locale:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DP Progetti</title>
-      <link>//localhost:1313/progetti/dpprogetti/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/progetti/dpprogetti/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Spada Reale</title>
-      <link>//localhost:1313/progetti/spada-reale/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/progetti/spada-reale/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Iuliana David</title>
-      <link>//localhost:1313/progetti/iuliana/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/progetti/iuliana/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Agriturismo La Ciapeleta</title>
-      <link>//localhost:1313/progetti/ciapeleta/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/progetti/ciapeleta/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Palawan Tribe</title>
-      <link>//localhost:1313/progetti/palawan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/progetti/palawan/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>A Me Cà</title>
-      <link>//localhost:1313/progetti/ameca/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/progetti/ameca/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>La Legiun Straniera</title>
-      <link>//localhost:1313/progetti/legiun/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/progetti/legiun/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>TB Logistica</title>
-      <link>//localhost:1313/progetti/tb-logistica/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/progetti/tb-logistica/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hotel Moderno Demonte</title>
-      <link>//localhost:1313/progetti/hotel-moderno/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/progetti/hotel-moderno/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

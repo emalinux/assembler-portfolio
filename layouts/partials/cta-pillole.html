@@ -1,0 +1,11 @@
+<div class="cta-pillole">
+  {{ if eq .Lang "en" }}
+    <a href="/en/#progetti" class="pillola">📁 {{ i18n "pillola_progetti" }}</a>
+    <a href="/en/about/" class="pillola">🧪 {{ i18n "pillola_approccio" }}</a>
+    <a href="/en/contact/" class="pillola">📞 {{ i18n "pillola_preventivo" }}</a>
+  {{ else }}
+    <a href="/it/#progetti" class="pillola">📁 {{ i18n "pillola_progetti" }}</a>
+    <a href="/chi-siamo/" class="pillola">🧪 {{ i18n "pillola_approccio" }}</a>
+    <a href="/contatti/" class="pillola">📞 {{ i18n "pillola_preventivo" }}</a>
+  {{ end }}
+</div>

@@ -1,6 +1,17 @@
 welcome_title:
-  other: "Welcome to the Assembler Portfolio"
+  other: "Welcome to the Assembler Studio Portfolio"
+
 welcome_subtitle:
-  other: "A selection of top web projects crafted for businesses and professionals. And visionaries."
+  other: "A selection of web projects crafted for businesses, professionals, and visionaries."
+
 view_project:
-  other: "View project details"  
+  other: "View project details"
+
+pillola_progetti:
+  other: "See more projects"
+
+pillola_approccio:
+  other: "Discover our approach"
+
+pillola_preventivo:
+  other: "Request a quote"

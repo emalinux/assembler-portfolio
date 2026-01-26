@@ -122,6 +122,18 @@
                 href="//localhost:1313/progetti/hotel-moderno/"
                 />
   </url><url>
+    <loc>//localhost:1313/tags/camping/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/camping/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/camping/"
+                />
+  </url><url>
     <loc>//localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -137,6 +149,18 @@
     <loc>//localhost:1313/chi-siamo/</loc>
   </url><url>
     <loc>//localhost:1313/contatti/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/hugo/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/hugo/"
+                />
   </url><url>
     <loc>//localhost:1313/progetti/</loc>
     <xhtml:link
@@ -162,6 +186,8 @@
                 href="//localhost:1313/"
                 />
   </url><url>
+    <loc>//localhost:1313/tags/statico/</loc>
+  </url><url>
     <loc>//localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -173,5 +199,7 @@
                 hreflang="it"
                 href="//localhost:1313/tags/"
                 />
+  </url><url>
+    <loc>//localhost:1313/tags/turismo/</loc>
   </url>
 </urlset>

@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+url: "contact"
 description: "Get in touch for info, quotes or collaborations."
 ---
 

@@ -1,6 +1,17 @@
 welcome_title:
-  other: "Benvenuto nel Portfolio Assembler"
+  other: "Benvenuti nel portfolio di Assembler Studio"
+
 welcome_subtitle:
-  other: "Una selezione dei migliori progetti web realizzati su misura per aziende e professionisti. E Visionari."
+  other: "Una selezione di progetti web realizzati per aziende, professionisti e visionari."
+
 view_project:
-  other: "Guarda scheda tecnica"  
+  other: "Visualizza i dettagli del progetto"
+
+pillola_progetti:
+  other: "Vedi altri progetti"
+
+pillola_approccio:
+  other: "Scopri il nostro approccio"
+
+pillola_preventivo:
+  other: "Richiedi un preventivo" 
