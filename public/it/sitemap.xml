@@ -150,6 +150,20 @@
   </url><url>
     <loc>//localhost:1313/contatti/</loc>
   </url><url>
+    <loc>//localhost:1313/tags/dinamico/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/hotel/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/hotel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/hotel/"
+                />
+  </url><url>
     <loc>//localhost:1313/tags/hugo/</loc>
     <xhtml:link
                 rel="alternate"
@@ -174,6 +188,44 @@
                 href="//localhost:1313/progetti/"
                 />
   </url><url>
+    <loc>//localhost:1313/tags/ingegneria/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/mental-coach/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/mental-coach/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/mental-coach/"
+                />
+  </url><url>
+    <loc>//localhost:1313/tags/personal/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/personal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/personal/"
+                />
+  </url><url>
+    <loc>//localhost:1313/tags/portfolio/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/portfolio/"
+                />
+  </url><url>
     <loc>//localhost:1313/</loc>
     <xhtml:link
                 rel="alternate"
@@ -186,7 +238,41 @@
                 href="//localhost:1313/"
                 />
   </url><url>
+    <loc>//localhost:1313/tags/restaurant/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/restaurant/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/restaurant/"
+                />
+  </url><url>
+    <loc>//localhost:1313/tags/static/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/static/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/static/"
+                />
+  </url><url>
     <loc>//localhost:1313/tags/statico/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/statico/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/statico/"
+                />
   </url><url>
     <loc>//localhost:1313/tags/</loc>
     <xhtml:link
@@ -201,5 +287,27 @@
                 />
   </url><url>
     <loc>//localhost:1313/tags/turismo/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/turismo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/turismo/"
+                />
+  </url><url>
+    <loc>//localhost:1313/tags/wordpress/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/wordpress/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/wordpress/"
+                />
   </url>
 </urlset>

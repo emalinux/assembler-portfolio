@@ -761,3 +761,19 @@ html[data-theme='dark'] {
     width: 100%;
   }
 }
+
+.form-intro {
+  text-align: center;
+  margin: 2rem auto;
+  max-width: 500px;
+}
+
+.form-intro h2 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.form-intro p {
+  font-size: 1.1rem;
+  color: #555;
+}

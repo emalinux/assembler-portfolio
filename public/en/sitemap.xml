@@ -172,6 +172,22 @@
   </url><url>
     <loc>//localhost:1313/en/contact/</loc>
   </url><url>
+    <loc>//localhost:1313/en/tags/dynamic/</loc>
+  </url><url>
+    <loc>//localhost:1313/en/tags/engineering/</loc>
+  </url><url>
+    <loc>//localhost:1313/en/tags/hotel/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/hotel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/hotel/"
+                />
+  </url><url>
     <loc>//localhost:1313/en/tags/hugo/</loc>
     <xhtml:link
                 rel="alternate"
@@ -184,7 +200,77 @@
                 href="//localhost:1313/en/tags/hugo/"
                 />
   </url><url>
+    <loc>//localhost:1313/en/tags/mental-coach/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/mental-coach/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/mental-coach/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/tags/personal/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/personal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/personal/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/tags/portfolio/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/portfolio/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/tags/restaurant/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/restaurant/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/restaurant/"
+                />
+  </url><url>
     <loc>//localhost:1313/en/tags/static/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/static/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/static/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/tags/statico/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/statico/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/statico/"
+                />
   </url><url>
     <loc>//localhost:1313/en/tags/</loc>
     <xhtml:link
@@ -198,8 +284,30 @@
                 href="//localhost:1313/en/tags/"
                 />
   </url><url>
-    <loc>//localhost:1313/en/tags/tourism/</loc>
+    <loc>//localhost:1313/en/tags/turismo/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/turismo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/turismo/"
+                />
   </url><url>
     <loc>//localhost:1313/en/about/</loc>
+  </url><url>
+    <loc>//localhost:1313/en/tags/wordpress/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/wordpress/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/wordpress/"
+                />
   </url>
 </urlset>

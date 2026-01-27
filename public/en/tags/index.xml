@@ -15,10 +15,59 @@
       <description></description>
     </item>
     <item>
+      <title>Dynamic</title>
+      <link>//localhost:1313/en/tags/dynamic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/tags/dynamic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Engineering</title>
+      <link>//localhost:1313/en/tags/engineering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/tags/engineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hotel</title>
+      <link>//localhost:1313/en/tags/hotel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/tags/hotel/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Hugo</title>
       <link>//localhost:1313/en/tags/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/en/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mental-Coach</title>
+      <link>//localhost:1313/en/tags/mental-coach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/tags/mental-coach/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal</title>
+      <link>//localhost:1313/en/tags/personal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/tags/personal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Portfolio</title>
+      <link>//localhost:1313/en/tags/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/tags/portfolio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Restaurant</title>
+      <link>//localhost:1313/en/tags/restaurant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/tags/restaurant/</guid>
       <description></description>
     </item>
     <item>
@@ -29,10 +78,24 @@
       <description></description>
     </item>
     <item>
-      <title>Tourism</title>
-      <link>//localhost:1313/en/tags/tourism/</link>
+      <title>Statico</title>
+      <link>//localhost:1313/en/tags/statico/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/en/tags/tourism/</guid>
+      <guid>//localhost:1313/en/tags/statico/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Turismo</title>
+      <link>//localhost:1313/en/tags/turismo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/tags/turismo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WordPress</title>
+      <link>//localhost:1313/en/tags/wordpress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/tags/wordpress/</guid>
       <description></description>
     </item>
   </channel>

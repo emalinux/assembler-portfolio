@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agriturismo on Portfolio Assembler</title>
+    <link>//localhost:1313/tags/agriturismo/</link>
+    <description>Recent content in Agriturismo on Portfolio Assembler</description>
+    <generator>Hugo</generator>
+    <language>it</language>
+    <atom:link href="//localhost:1313/tags/agriturismo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agriturismo - La Ciapeleta</title>
+      <link>//localhost:1313/progetti/ciapeleta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/progetti/ciapeleta/</guid>
+      <description>&lt;h2 id=&#34;-tecnologie&#34;&gt;🚀 Tecnologie&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hugo&lt;/strong&gt; (static site generator)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;HTML/CSS personalizzato&lt;/strong&gt; per un look moderno e accessibile&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Netlify&lt;/strong&gt; per il deploy continuo&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;SEO on-page&lt;/strong&gt; per una buona indicizzazione su Google&lt;/li&gt;&#xA;&lt;li&gt;Design leggero pensato per connessioni lente (campagna style!)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-struttura-del-progetto&#34;&gt;📂 Struttura del progetto&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-plaintext&#34; data-lang=&#34;plaintext&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;content/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;├── it/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;│   ├── _index.md&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;│   ├── agriturismo.md&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;│   ├── camere.md&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;│   ├── contatti.md&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;layouts/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;├── _default/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;├── partials/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;├── shortcodes/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;static/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;├── img/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-funzionalità-principali&#34;&gt;✨ Funzionalità principali&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Navigazione mobile-first e velocissima&lt;/li&gt;&#xA;&lt;li&gt;Sezioni dedicate all’agriturismo, camere e ristorante&lt;/li&gt;&#xA;&lt;li&gt;Form contatti integrato (Netlify) con antispam invisibile&lt;/li&gt;&#xA;&lt;li&gt;Layout minimal e coerente con lo stile della struttura&lt;/li&gt;&#xA;&lt;li&gt;Traduzioni pronte all’uso (opzione multilingua futura)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-dev--testing&#34;&gt;🛠️ Dev &amp;amp; testing&lt;/h2&gt;&#xA;&lt;p&gt;Per testare in locale:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
