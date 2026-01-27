@@ -1,17 +1,40 @@
-welcome_title:
-  other: "Benvenuti nel portfolio di Assembler Studio"
+- id: welcome_title
+  translation: "Benvenuti nel portfolio di Assembler Studio"
 
-welcome_subtitle:
-  other: "Una selezione di progetti web realizzati per aziende, professionisti e visionari."
+- id: welcome_subtitle
+  translation: "Una selezione di progetti web realizzati per aziende, professionisti e visionari."
 
-view_project:
-  other: "Visualizza i dettagli del progetto"
+- id: view_project
+  translation: "Visualizza i dettagli del progetto"
 
-pillola_progetti:
-  other: "Vedi altri progetti"
+- id: pillola_progetti
+  translation: "Vedi altri progetti"
 
-pillola_approccio:
-  other: "Scopri il nostro approccio"
+- id: pillola_approccio
+  translation: "Scopri il nostro approccio"
 
-pillola_preventivo:
-  other: "Richiedi un preventivo" 
+- id: pillola_preventivo
+  translation: "Richiedi un preventivo"
+
+# ───── Scheda tecnica (modal) ─────
+
+- id: project.modal.title
+  translation: "📄 Scheda tecnica"
+
+- id: project.modal.client
+  translation: "Cliente"
+
+- id: project.modal.year
+  translation: "Anno"
+
+- id: project.modal.stack
+  translation: "Stack tecnologico"
+
+- id: project.modal.online
+  translation: "Online"
+
+- id: project.modal.visit
+  translation: "Visita il sito →"
+
+- id: project.modal.not_available
+  translation: "Non disponibile"

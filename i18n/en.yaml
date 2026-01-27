@@ -1,17 +1,40 @@
-welcome_title:
-  other: "Welcome to the Assembler Studio Portfolio"
+- id: welcome_title
+  translation: "Welcome to the Assembler Studio portfolio"
 
-welcome_subtitle:
-  other: "A selection of web projects crafted for businesses, professionals, and visionaries."
+- id: welcome_subtitle
+  translation: "A selection of web projects crafted for businesses, professionals, and visionaries."
 
-view_project:
-  other: "View project details"
+- id: view_project
+  translation: "View project details"
 
-pillola_progetti:
-  other: "See more projects"
+- id: pillola_progetti
+  translation: "See more projects"
 
-pillola_approccio:
-  other: "Discover our approach"
+- id: pillola_approccio
+  translation: "Discover our approach"
 
-pillola_preventivo:
-  other: "Request a quote"
+- id: pillola_preventivo
+  translation: "Request a quote"
+
+# ───── Technical sheet (modal) ─────
+
+- id: project.modal.title
+  translation: "📄 Technical details"
+
+- id: project.modal.client
+  translation: "Client"
+
+- id: project.modal.year
+  translation: "Year"
+
+- id: project.modal.stack
+  translation: "Technology stack"
+
+- id: project.modal.online
+  translation: "Online"
+
+- id: project.modal.visit
+  translation: "Visit website →"
+
+- id: project.modal.not_available
+  translation: "Not available"

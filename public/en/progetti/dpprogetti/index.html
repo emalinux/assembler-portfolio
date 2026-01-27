@@ -48,15 +48,56 @@
     <main>
       
 <main class="page-wrapper">
+
   <section class="page-header">
     <h1>DP Progetti</h1>
     
-      <p class="page-description">DP Progetti – Technical Consulting and Design Studio. Clean interface and clear content.</p>
+      <p class="page-description">DP Progetti – Technical Consulting and Design Studio. Modern interface, clear content, and an emphasis on clarity and reliability.</p>
     
   </section>
 
   <section class="page-content">
-    
+    <img src="/img/dpprogetti.webp" alt="DP Progetti" class="project-hero" />
+<h2 id="-overview">🧱 Overview</h2>
+<p>Website created for <strong>DP Progetti</strong>, a consulting and technical design studio working in civil engineering, systems, and workplace safety.<br>
+The layout is clean and the information is well structured, designed to be both professional and user-friendly.</p>
+<p><a href="https://areatecnica.dpprogetti.com/">🌐 Visit the site →</a></p>
+<hr>
+<h2 id="-technologies">🚀 Technologies</h2>
+<ul>
+<li><strong>WordPress</strong> (flexible and user-managed CMS)</li>
+<li><strong>Astra theme</strong> with <strong>Elementor Pro</strong></li>
+<li><strong>Custom CSS</strong> and responsive layout</li>
+<li><strong>Advanced contact form</strong> integration</li>
+<li>SEO and performance optimization</li>
+</ul>
+<hr>
+<h2 id="-project-structure">📂 Project structure</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-plaintext" data-lang="plaintext"><span style="display:flex;"><span>wp-content/
+</span></span><span style="display:flex;"><span>├── themes/
+</span></span><span style="display:flex;"><span>│   └── astra-child/
+</span></span><span style="display:flex;"><span>├── plugins/
+</span></span><span style="display:flex;"><span>│   └── elementor/
+</span></span><span style="display:flex;"><span>├── uploads/
+</span></span><span style="display:flex;"><span>└── page-templates/
+</span></span><span style="display:flex;"><span>    └── custom-sections.php
+</span></span></code></pre></div><hr>
+<h2 id="-key-features">✨ Key Features</h2>
+<ul>
+<li>Scrolling homepage with clear sections</li>
+<li>Dedicated pages for services, projects, and contacts</li>
+<li>Integrated contact form with map and privacy features</li>
+<li>Fully self-managed content</li>
+<li>Professional and technical design on all devices</li>
+</ul>
+<hr>
+<h2 id="-dev--testing">🛠️ Dev &amp; testing</h2>
+<p>The site is fully manageable via the WordPress admin dashboard.</p>
+<p>Client received login credentials and documentation.</p>
+<hr>
+<h2 id="-tags">🔖 Tags</h2>
+<span class="taglist"><span class="tag" title="">WordPress</span><span class="tag" title="">Portfolio</span><span class="tag" title="">Engineering</span><span class="tag" title="">Dynamic</span></span>
+
   </section>
 
   
@@ -69,6 +110,40 @@
   
 </div>
   
+
+  
+  
+    
+<div id="projectModal" class="modal hidden" role="dialog" aria-modal="true">
+  <div class="modal-overlay" onclick="closeModal()"></div>
+  <div class="modal-content">
+    <button class="close-btn" onclick="closeModal()">×</button>
+    <h2>📄 Technical details</h2>
+    <ul class="modal-list">
+      
+        <li><strong>Client:</strong> DP Progetti Design Studio</li>
+      
+      
+        <li><strong>Year:</strong> 2024</li>
+      
+      
+        <li><strong>Technology stack:</strong> WordPress, Astra Custom Theme, Elementor Pro, HTML/CSS, SEO optimization, advanced contact form</li>
+      
+
+      
+        <li>
+          <strong>Online:</strong>
+          <a href="https://areatecnica.dpprogetti.com/" target="_blank" rel="noopener">Visit website →</a>
+        </li>
+      
+    </ul>
+  </div>
+</div>
+
+
+<button class="modal-btn" onclick="openModal()">📄 Technical details</button>
+  
+
 </main>
 
     </main>
@@ -94,6 +169,15 @@
     <script src="/js/theme.js"></script>
     <script src="/js/theme-toggle.js"></script>
     <button id="scrollToTop" aria-label="Torna su">⬆️</button> 
-    <script src="/js/main.js"></script>   
+    <script src="/js/main.js"></script>
+    <script>
+    function openModal() {
+      document.getElementById("projectModal").classList.remove("hidden");
+    }
+  
+    function closeModal() {
+      document.getElementById("projectModal").classList.add("hidden");
+    }
+  </script>   
   </body>
 </html>

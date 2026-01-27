@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Restaurant on Assembler Portfolio</title>
+    <link>//localhost:1313/en/tags/restaurant/</link>
+    <description>Recent content in Restaurant on Assembler Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/en/tags/restaurant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hotel &amp; Restaurant Spada Reale</title>
+      <link>//localhost:1313/en/progetti/spada-reale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/progetti/spada-reale/</guid>
+      <description>&lt;img src=&#34;//localhost:1313/img/spada.webp&#34; alt=&#34;Hotel &amp; Restaurant Spada Reale&#34; class=&#34;project-hero&#34; /&gt;&#xA;&lt;h2 id=&#34;-overview&#34;&gt;🍷 Overview&lt;/h2&gt;&#xA;&lt;p&gt;Official website of &lt;strong&gt;Spada Reale&lt;/strong&gt;, a charming hotel and restaurant in the heart of Roaschia (Italy).&lt;/p&gt;&#xA;&lt;p&gt;Built with &lt;strong&gt;Hugo&lt;/strong&gt;, the project is fully customized, multilingual (Italian, English, French), responsive, and optimized for display on shopfront screens (night mode enabled).&lt;/p&gt;&#xA;&lt;p&gt;It features dedicated sections for rooms, restaurant, local shop, regional products, and contact details — all presented with an elegant layout and streamlined navigation.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

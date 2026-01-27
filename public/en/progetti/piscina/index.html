@@ -48,10 +48,11 @@
     <main>
       
 <main class="page-wrapper">
+
   <section class="page-header">
     <h1>Camping Piscina Demonte</h1>
     
-      <p class="page-description">Tourism website, built with Hugo and optimized for mobile devices.</p>
+      <p class="page-description">Sito turistico, realizzato con Hugo e ottimizzato per dispositivi mobili.</p>
     
   </section>
 
@@ -83,16 +84,17 @@
 </span></span><span style="display:flex;"><span>├── _default/
 </span></span><span style="display:flex;"><span>├── partials/
 </span></span><span style="display:flex;"><span>netlify.toml
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>✨ Key Features
-</span></span><span style="display:flex;"><span>•Dynamic hero section and featured areas
-</span></span><span style="display:flex;"><span>•Cards for chalet, pitches, pool, igloo, etc.
-</span></span><span style="display:flex;"><span>•Responsive photo gallery
-</span></span><span style="display:flex;"><span>•Editable sections (Regulation, Price List)
-</span></span><span style="display:flex;"><span>•Contact section with map, phone and form
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>---
-</span></span></code></pre></div><h2 id="-dev--testing">🛠️ Dev &amp; testing</h2>
+</span></span></code></pre></div><hr>
+<h2 id="-key-features">✨ Key Features</h2>
+<ul>
+<li>Dynamic hero section and featured areas</li>
+<li>Cards for chalet, pitches, pool, igloo, etc.</li>
+<li>Responsive photo gallery</li>
+<li>Editable sections (Regulation, Price List)</li>
+<li>Contact section with map, phone and form</li>
+</ul>
+<hr>
+<h2 id="-dev--testing">🛠️ Dev &amp; testing</h2>
 <p>Per testare il sito in locale:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hugo server -D
 </span></span></code></pre></div><h2 id="-tag">🔖 Tag</h2>
@@ -110,6 +112,40 @@
   
 </div>
   
+
+  
+  
+    
+<div id="projectModal" class="modal hidden" role="dialog" aria-modal="true">
+  <div class="modal-overlay" onclick="closeModal()"></div>
+  <div class="modal-content">
+    <button class="close-btn" onclick="closeModal()">×</button>
+    <h2>📄 Technical details</h2>
+    <ul class="modal-list">
+      
+        <li><strong>Client:</strong> Camping Piscina Demonte</li>
+      
+      
+        <li><strong>Year:</strong> 2025</li>
+      
+      
+        <li><strong>Technology stack:</strong> Hugo, Netlify, CSS personalizzato</li>
+      
+
+      
+        <li>
+          <strong>Online:</strong>
+          <a href="https://campingpiscinademonte.com/" target="_blank" rel="noopener">Visit website →</a>
+        </li>
+      
+    </ul>
+  </div>
+</div>
+
+
+<button class="modal-btn" onclick="openModal()">📄 Technical details</button>
+  
+
 </main>
 
     </main>
@@ -135,6 +171,15 @@
     <script src="/js/theme.js"></script>
     <script src="/js/theme-toggle.js"></script>
     <button id="scrollToTop" aria-label="Torna su">⬆️</button> 
-    <script src="/js/main.js"></script>   
+    <script src="/js/main.js"></script>
+    <script>
+    function openModal() {
+      document.getElementById("projectModal").classList.remove("hidden");
+    }
+  
+    function closeModal() {
+      document.getElementById("projectModal").classList.add("hidden");
+    }
+  </script>   
   </body>
 </html>

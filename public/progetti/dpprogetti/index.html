@@ -48,15 +48,57 @@
     <main>
       
 <main class="page-wrapper">
+
   <section class="page-header">
     <h1>DP Progetti</h1>
     
-      <p class="page-description">DP Progetti – Studio Consulenza e Progettazione Tecnica. Interfaccia moderna e contenuti chiari.</p>
+      <p class="page-description">DP Progetti – Studio Consulenza e Progettazione Tecnica. Interfaccia moderna, contenuti chiari, focus su affidabilità e leggibilità.</p>
     
   </section>
 
   <section class="page-content">
-    
+    <img src="/img/dpprogetti.webp" alt="DP Progetti" class="project-hero" />
+<h2 id="-descrizione">🏗️ Descrizione</h2>
+<p>Sito web realizzato per lo <strong>Studio di Progettazione DP Progetti</strong>, attivo nei settori dell&rsquo;ingegneria civile, impiantistica e sicurezza.<br>
+Layout pulito, sezioni informative ben distribuite e aggiornamento semplificato grazie all’uso di Elementor.</p>
+<p>Obiettivo: creare un portale tecnico ma accessibile, capace di comunicare autorevolezza e chiarezza operativa.</p>
+<p><a href="https://areatecnica.dpprogetti.com/">🌐 Visita il sito →</a></p>
+<hr>
+<h2 id="-tecnologie">🚀 Tecnologie</h2>
+<ul>
+<li><strong>WordPress</strong> (CMS flessibile e autogestibile)</li>
+<li><strong>Tema Astra</strong> con <strong>Elementor Pro</strong></li>
+<li><strong>Custom CSS</strong> e layout responsive</li>
+<li><strong>Modulo contatti avanzato</strong> integrato</li>
+<li>Ottimizzazione SEO e prestazioni</li>
+</ul>
+<hr>
+<h2 id="-struttura-del-progetto">📂 Struttura del progetto</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-plaintext" data-lang="plaintext"><span style="display:flex;"><span>wp-content/
+</span></span><span style="display:flex;"><span>├── themes/
+</span></span><span style="display:flex;"><span>│   └── astra-child/
+</span></span><span style="display:flex;"><span>├── plugins/
+</span></span><span style="display:flex;"><span>│   └── elementor/
+</span></span><span style="display:flex;"><span>├── uploads/
+</span></span><span style="display:flex;"><span>└── page-templates/
+</span></span><span style="display:flex;"><span>    └── custom-sections.php
+</span></span></code></pre></div><hr>
+<h2 id="-funzionalità-principali">✨ Funzionalità principali</h2>
+<ul>
+<li>Homepage con sezioni a scorrimento fluido</li>
+<li>Pagine dedicate ai servizi, progetti, contatti</li>
+<li>Modulo contatti con mappa e privacy integrata</li>
+<li>Gestione autonoma dei contenuti</li>
+<li>Look tecnico-professionale su ogni dispositivo</li>
+</ul>
+<hr>
+<h2 id="-dev--testing">🛠️ Dev &amp; testing</h2>
+<p>Il sito è aggiornabile direttamente dal pannello di WordPress.</p>
+<p>Accesso admin e documentazione forniti al cliente.</p>
+<hr>
+<h2 id="-tag">🔖 Tag</h2>
+<span class="taglist"><span class="tag" title="">WordPress</span><span class="tag" title="">Portfolio</span><span class="tag" title="">Ingegneria</span><span class="tag" title="">Dinamico</span></span>
+
   </section>
 
   
@@ -69,6 +111,40 @@
   
 </div>
   
+
+  
+  
+    
+<div id="projectModal" class="modal hidden" role="dialog" aria-modal="true">
+  <div class="modal-overlay" onclick="closeModal()"></div>
+  <div class="modal-content">
+    <button class="close-btn" onclick="closeModal()">×</button>
+    <h2>📄 Scheda tecnica</h2>
+    <ul class="modal-list">
+      
+        <li><strong>Cliente:</strong> Studio di Progettazione DP Progetti</li>
+      
+      
+        <li><strong>Anno:</strong> 2024</li>
+      
+      
+        <li><strong>Stack tecnologico:</strong> WordPress, Tema Astra Custom, Elementor Pro, HTML/CSS su misura, ottimizzazioni SEO, modulo contatti avanzato</li>
+      
+
+      
+        <li>
+          <strong>Online:</strong>
+          <a href="https://areatecnica.dpprogetti.com/" target="_blank" rel="noopener">Visita il sito →</a>
+        </li>
+      
+    </ul>
+  </div>
+</div>
+
+
+<button class="modal-btn" onclick="openModal()">📄 Scheda tecnica</button>
+  
+
 </main>
 
     </main>
@@ -94,6 +170,15 @@
     <script src="/js/theme.js"></script>
     <script src="/js/theme-toggle.js"></script>
     <button id="scrollToTop" aria-label="Torna su">⬆️</button> 
-    <script src="/js/main.js"></script>   
+    <script src="/js/main.js"></script>
+    <script>
+    function openModal() {
+      document.getElementById("projectModal").classList.remove("hidden");
+    }
+  
+    function closeModal() {
+      document.getElementById("projectModal").classList.add("hidden");
+    }
+  </script>   
   </body>
 </html>

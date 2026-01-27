@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="it" data-theme="light">
   <head>
-	<meta name="generator" content="Hugo 0.147.9"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<meta name="generator" content="Hugo 0.148.0"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Assembler Studio</title>
@@ -184,6 +184,15 @@
     <script src="/js/theme.js"></script>
     <script src="/js/theme-toggle.js"></script>
     <button id="scrollToTop" aria-label="Torna su">⬆️</button> 
-    <script src="/js/main.js"></script>   
+    <script src="/js/main.js"></script>
+    <script>
+    function openModal() {
+      document.getElementById("projectModal").classList.remove("hidden");
+    }
+  
+    function closeModal() {
+      document.getElementById("projectModal").classList.add("hidden");
+    }
+  </script>   
   </body>
 </html>

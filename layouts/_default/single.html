@@ -1,5 +1,6 @@
 {{ define "main" }}
 <main class="page-wrapper">
+
   <section class="page-header">
     <h1>{{ .Title }}</h1>
     {{ with .Params.description }}
@@ -11,9 +12,15 @@
     {{ .Content }}
   </section>
 
-  <!-- ✅ Mostra le pillole solo se siamo in una pagina “progetto” -->
+  <!-- ✅ CTA pillole SOLO nei progetti -->
   {{ if in .File.Path "progetti" }}
     {{ partial "cta-pillole.html" . }}
   {{ end }}
+
+  <!-- ✅ MODALE progetto (esiste nel DOM, ma è nascosta) -->
+  {{ if in .File.Path "progetti" }}
+    {{ partial "project-modal.html" . }}
+  {{ end }}
+
 </main>
 {{ end }}

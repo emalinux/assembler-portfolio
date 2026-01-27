@@ -1,0 +1,36 @@
+<!-- partials/project-modal.html -->
+<div id="projectModal" class="modal hidden" role="dialog" aria-modal="true">
+  <div class="modal-overlay" onclick="closeModal()"></div>
+  <div class="modal-content">
+    <button class="close-btn" onclick="closeModal()">×</button>
+    <h2>{{ i18n "project.modal.title" }}</h2>
+    <ul class="modal-list">
+      {{ with .Params.cliente }}
+        <li><strong>{{ i18n "project.modal.client" }}:</strong> {{ . }}</li>
+      {{ end }}
+      {{ with .Params.anno }}
+        <li><strong>{{ i18n "project.modal.year" }}:</strong> {{ . }}</li>
+      {{ end }}
+      {{ with .Params.stack }}
+        <li><strong>{{ i18n "project.modal.stack" }}:</strong> {{ . }}</li>
+      {{ end }}
+
+      {{ with .Params.link }}
+        <li>
+          <strong>{{ i18n "project.modal.online" }}:</strong>
+          <a href="{{ . }}" target="_blank" rel="noopener">{{ i18n "project.modal.visit" }}</a>
+        </li>
+      {{ else }}
+        {{ if not .Params.online }}
+          <li>
+            <strong>{{ i18n "project.modal.online" }}:</strong>
+            {{ i18n "project.modal.not_available" }}
+          </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </div>
+</div>
+
+<!-- Bottone fluttuante -->
+<button class="modal-btn" onclick="openModal()">{{ i18n "project.modal.title" }}</button>

@@ -6,6 +6,10 @@ draft: false
 weight: 1
 tags: ["Hugo", "Turismo", "Camping", "Statico"]
 link: "https://campingpiscinademonte.com/"
+cliente: "Camping Piscina Demonte"
+anno: "2025"
+stack: "Hugo, Netlify, CSS personalizzato"
+online: true
 ---
 
 <img src="/img/piscina.webp" alt="Camping Piscina Demonte" class="project-hero" />
@@ -65,7 +69,8 @@ Per testare il sito in locale:
 hugo server -D
 ```
 
-
 ## 🔖 Tag
+
 ```markdown
 {{< taglist tags="Hugo, Turismo, Camping, Statico" >}}
+```

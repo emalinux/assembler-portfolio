@@ -115,6 +115,15 @@ to build an effective and human digital presence. Every site we build is a small
     <script src="/js/theme.js"></script>
     <script src="/js/theme-toggle.js"></script>
     <button id="scrollToTop" aria-label="Torna su">⬆️</button> 
-    <script src="/js/main.js"></script>   
+    <script src="/js/main.js"></script>
+    <script>
+    function openModal() {
+      document.getElementById("projectModal").classList.remove("hidden");
+    }
+  
+    function closeModal() {
+      document.getElementById("projectModal").classList.add("hidden");
+    }
+  </script>   
   </body>
 </html>

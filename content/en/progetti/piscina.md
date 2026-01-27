@@ -1,11 +1,15 @@
 ---
 title: "Camping Piscina Demonte"
 thumb: "img/piscina.webp"
-description: "Tourism website, built with Hugo and optimized for mobile devices."
+description: "Sito turistico, realizzato con Hugo e ottimizzato per dispositivi mobili."
 draft: false
 weight: 1
-tags: ["Hugo", "Tourism", "Camping", "Static"]
+tags: ["Hugo", "Turismo", "Camping", "Statico"]
 link: "https://campingpiscinademonte.com/"
+cliente: "Camping Piscina Demonte"
+anno: "2025"
+stack: "Hugo, Netlify, CSS personalizzato"
+online: true
 ---
 
 <img src="/img/piscina.webp" alt="Camping Piscina Demonte" class="project-hero" />
@@ -44,16 +48,19 @@ layouts/
 ├── _default/
 ├── partials/
 netlify.toml
+```
+---
 
-✨ Key Features
-•Dynamic hero section and featured areas
-•Cards for chalet, pitches, pool, igloo, etc.
-•Responsive photo gallery
-•Editable sections (Regulation, Price List)
-•Contact section with map, phone and form
+## ✨ Key Features
+
+- Dynamic hero section and featured areas
+- Cards for chalet, pitches, pool, igloo, etc.
+- Responsive photo gallery
+- Editable sections (Regulation, Price List)
+- Contact section with map, phone and form
 
 ---
-```
+
 ## 🛠️ Dev & testing
 
 Per testare il sito in locale:

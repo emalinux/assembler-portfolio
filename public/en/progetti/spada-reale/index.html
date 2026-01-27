@@ -3,7 +3,7 @@
   <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Spada Reale | Assembler Studio</title>
+    <title>Hotel &amp; Restaurant Spada Reale | Assembler Studio</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/css/style.css" />
   </head>
@@ -48,15 +48,65 @@
     <main>
       
 <main class="page-wrapper">
+
   <section class="page-header">
-    <h1>Spada Reale</h1>
+    <h1>Hotel &amp; Restaurant Spada Reale</h1>
     
-      <p class="page-description">Elegant one‑page site for a historic estate with restaurant, rooms and traditional shop.</p>
+      <p class="page-description">Official website of Spada Reale Restaurant (Roaschia, CN) – built with Hugo and auto-deployed via Netlify. Multilingual, responsive, and elegant design.</p>
     
   </section>
 
   <section class="page-content">
-    
+    <img src="/img/spada.webp" alt="Hotel & Restaurant Spada Reale" class="project-hero" />
+<h2 id="-overview">🍷 Overview</h2>
+<p>Official website of <strong>Spada Reale</strong>, a charming hotel and restaurant in the heart of Roaschia (Italy).</p>
+<p>Built with <strong>Hugo</strong>, the project is fully customized, multilingual (Italian, English, French), responsive, and optimized for display on shopfront screens (night mode enabled).</p>
+<p>It features dedicated sections for rooms, restaurant, local shop, regional products, and contact details — all presented with an elegant layout and streamlined navigation.</p>
+<p><a href="https://spadareale.com/en/">🌐 Visit the website →</a></p>
+<hr>
+<h2 id="-technologies">🚀 Technologies</h2>
+<ul>
+<li><strong>Hugo</strong> (lightning-fast static site generator)</li>
+<li><strong>Custom HTML/CSS</strong> with responsive design</li>
+<li><strong>Netlify</strong> (continuous deploy from GitHub)</li>
+<li><strong>i18n</strong> multilingual system (IT, EN, FR)</li>
+<li>Automatic dark mode after 6 PM</li>
+</ul>
+<hr>
+<h2 id="-project-structure">📂 Project structure</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-plaintext" data-lang="plaintext"><span style="display:flex;"><span>content/
+</span></span><span style="display:flex;"><span>├── it/
+</span></span><span style="display:flex;"><span>│   ├── _index.md
+</span></span><span style="display:flex;"><span>│   ├── ristorante/
+</span></span><span style="display:flex;"><span>│   ├── camere/
+</span></span><span style="display:flex;"><span>│   ├── contatti.md
+</span></span><span style="display:flex;"><span>├── en/
+</span></span><span style="display:flex;"><span>│   └── ...
+</span></span><span style="display:flex;"><span>├── fr/
+</span></span><span style="display:flex;"><span>│   └── ...
+</span></span><span style="display:flex;"><span>layouts/
+</span></span><span style="display:flex;"><span>├── _default/
+</span></span><span style="display:flex;"><span>├── partials/
+</span></span><span style="display:flex;"><span>├── sections/
+</span></span></code></pre></div><hr>
+<h2 id="-key-features">✨ Key Features</h2>
+<ul>
+<li>Sticky navigation with theme and language toggle</li>
+<li>Elegant layout, readable on any device</li>
+<li>Carefully crafted translations</li>
+<li>Virtual shop with 6 local products (bread, honey, souvenirs…)</li>
+<li>Embedded map and contact form</li>
+<li>Nighttime display mode for shop windows</li>
+</ul>
+<hr>
+<h2 id="-dev--testing">🛠️ Dev &amp; testing</h2>
+<p>To test the site locally:</p>
+<p>hugo server -D</p>
+<p>The project is fully versioned on GitHub and deployed via Netlify.</p>
+<hr>
+<h2 id="-tag">🔖 Tag</h2>
+<span class="taglist"><span class="tag" title="Sito statico con framework Hugo">Hugo</span><span class="tag" title="">Hotel</span><span class="tag" title="">Restaurant</span><span class="tag" title="">Static</span></span>
+
   </section>
 
   
@@ -69,6 +119,40 @@
   
 </div>
   
+
+  
+  
+    
+<div id="projectModal" class="modal hidden" role="dialog" aria-modal="true">
+  <div class="modal-overlay" onclick="closeModal()"></div>
+  <div class="modal-content">
+    <button class="close-btn" onclick="closeModal()">×</button>
+    <h2>📄 Technical details</h2>
+    <ul class="modal-list">
+      
+        <li><strong>Client:</strong> Spada Reale</li>
+      
+      
+        <li><strong>Year:</strong> 2025</li>
+      
+      
+        <li><strong>Technology stack:</strong> Hugo, custom HTML &amp; CSS, multilingual, Netlify deploy</li>
+      
+
+      
+        <li>
+          <strong>Online:</strong>
+          <a href="https://spadareale.com/en/" target="_blank" rel="noopener">Visit website →</a>
+        </li>
+      
+    </ul>
+  </div>
+</div>
+
+
+<button class="modal-btn" onclick="openModal()">📄 Technical details</button>
+  
+
 </main>
 
     </main>
@@ -94,6 +178,15 @@
     <script src="/js/theme.js"></script>
     <script src="/js/theme-toggle.js"></script>
     <button id="scrollToTop" aria-label="Torna su">⬆️</button> 
-    <script src="/js/main.js"></script>   
+    <script src="/js/main.js"></script>
+    <script>
+    function openModal() {
+      document.getElementById("projectModal").classList.remove("hidden");
+    }
+  
+    function closeModal() {
+      document.getElementById("projectModal").classList.add("hidden");
+    }
+  </script>   
   </body>
 </html>

@@ -48,6 +48,7 @@
     <main>
       
 <main class="page-wrapper">
+
   <section class="page-header">
     <h1>Camping Piscina Demonte</h1>
     
@@ -111,6 +112,40 @@
   
 </div>
   
+
+  
+  
+    
+<div id="projectModal" class="modal hidden" role="dialog" aria-modal="true">
+  <div class="modal-overlay" onclick="closeModal()"></div>
+  <div class="modal-content">
+    <button class="close-btn" onclick="closeModal()">×</button>
+    <h2>📄 Scheda tecnica</h2>
+    <ul class="modal-list">
+      
+        <li><strong>Cliente:</strong> Camping Piscina Demonte</li>
+      
+      
+        <li><strong>Anno:</strong> 2025</li>
+      
+      
+        <li><strong>Stack tecnologico:</strong> Hugo, Netlify, CSS personalizzato</li>
+      
+
+      
+        <li>
+          <strong>Online:</strong>
+          <a href="https://campingpiscinademonte.com/" target="_blank" rel="noopener">Visita il sito →</a>
+        </li>
+      
+    </ul>
+  </div>
+</div>
+
+
+<button class="modal-btn" onclick="openModal()">📄 Scheda tecnica</button>
+  
+
 </main>
 
     </main>
@@ -136,6 +171,15 @@
     <script src="/js/theme.js"></script>
     <script src="/js/theme-toggle.js"></script>
     <button id="scrollToTop" aria-label="Torna su">⬆️</button> 
-    <script src="/js/main.js"></script>   
+    <script src="/js/main.js"></script>
+    <script>
+    function openModal() {
+      document.getElementById("projectModal").classList.remove("hidden");
+    }
+  
+    function closeModal() {
+      document.getElementById("projectModal").classList.add("hidden");
+    }
+  </script>   
   </body>
 </html>
