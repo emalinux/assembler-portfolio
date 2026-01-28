@@ -122,6 +122,8 @@
                 href="//localhost:1313/progetti/hotel-moderno/"
                 />
   </url><url>
+    <loc>//localhost:1313/tags/agriturismo/</loc>
+  </url><url>
     <loc>//localhost:1313/tags/camping/</loc>
     <xhtml:link
                 rel="alternate"
@@ -149,6 +151,18 @@
     <loc>//localhost:1313/chi-siamo/</loc>
   </url><url>
     <loc>//localhost:1313/contatti/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/cultural-heritage/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/cultural-heritage/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/cultural-heritage/"
+                />
   </url><url>
     <loc>//localhost:1313/tags/dinamico/</loc>
   </url><url>
@@ -200,6 +214,18 @@
                 rel="alternate"
                 hreflang="it"
                 href="//localhost:1313/tags/mental-coach/"
+                />
+  </url><url>
+    <loc>//localhost:1313/tags/non-profit/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/non-profit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/non-profit/"
                 />
   </url><url>
     <loc>//localhost:1313/tags/personal/</loc>

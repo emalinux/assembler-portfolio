@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logistics on Assembler Portfolio</title>
+    <link>//localhost:1313/en/tags/logistics/</link>
+    <description>Recent content in Logistics on Assembler Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/en/tags/logistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TB Logistica S.r.l.</title>
+      <link>//localhost:1313/en/progetti/tb-logistica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/progetti/tb-logistica/</guid>
+      <description>&lt;img src=&#34;//localhost:1313/img/tb.webp&#34; alt=&#34;TB Logistica S.r.l. - Official Website&#34; class=&#34;project-hero&#34; /&gt;&#xA;&lt;h2 id=&#34;-description&#34;&gt;🚛 Description&lt;/h2&gt;&#xA;&lt;p&gt;Official showcase website of &lt;strong&gt;TB Logistica S.r.l.&lt;/strong&gt;, a company operating in the field of &lt;strong&gt;transport and logistics&lt;/strong&gt; across Italy.&lt;/p&gt;&#xA;&lt;p&gt;The project was built using &lt;strong&gt;Hugo&lt;/strong&gt; as a high-performance static site generator, with the goal of conveying &lt;strong&gt;reliability, corporate strength, and clarity of services&lt;/strong&gt;.&lt;br&gt;&#xA;It features a &lt;strong&gt;clean, professional, and fully responsive layout&lt;/strong&gt;, designed for seamless browsing on both desktop and mobile.&lt;/p&gt;&#xA;&lt;p&gt;The content structure includes company presentation, offered services, contact information, and key operational details—crafted with &lt;strong&gt;maximum readability and SEO optimization&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

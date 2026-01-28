@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aziendale on Portfolio Assembler</title>
+    <link>//localhost:1313/tags/aziendale/</link>
+    <description>Recent content in Aziendale on Portfolio Assembler</description>
+    <generator>Hugo</generator>
+    <language>it</language>
+    <atom:link href="//localhost:1313/tags/aziendale/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TB Logistica S.r.l.</title>
+      <link>//localhost:1313/progetti/tb-logistica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/progetti/tb-logistica/</guid>
+      <description>&lt;img src=&#34;//localhost:1313/img/tb.webp&#34; alt=&#34;TB Logistica S.r.l. - Sito ufficiale&#34; class=&#34;project-hero&#34; /&gt;&#xA;&lt;h2 id=&#34;-descrizione&#34;&gt;🚛 Descrizione&lt;/h2&gt;&#xA;&lt;p&gt;Sito vetrina ufficiale di &lt;strong&gt;TB Logistica S.r.l.&lt;/strong&gt;, azienda attiva nel settore dei trasporti e della logistica su scala nazionale.&lt;/p&gt;&#xA;&lt;p&gt;Il progetto è stato realizzato con &lt;strong&gt;Hugo&lt;/strong&gt; come sito statico ad alte prestazioni, con l’obiettivo di comunicare &lt;strong&gt;affidabilità, solidità aziendale e chiarezza dei servizi&lt;/strong&gt;.&lt;br&gt;&#xA;Il layout è pulito, professionale e completamente &lt;strong&gt;responsive&lt;/strong&gt;, pensato per una consultazione rapida sia da desktop che da mobile.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

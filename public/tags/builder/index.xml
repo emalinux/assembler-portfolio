@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Builder on Portfolio Assembler</title>
+    <link>//localhost:1313/tags/builder/</link>
+    <description>Recent content in Builder on Portfolio Assembler</description>
+    <generator>Hugo</generator>
+    <language>it</language>
+    <atom:link href="//localhost:1313/tags/builder/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bed &amp; Breakfast – La Legiun Straniera</title>
+      <link>//localhost:1313/progetti/legiun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/progetti/legiun/</guid>
+      <description>&lt;img src=&#34;//localhost:1313/img/legiun.webp&#34; alt=&#34;B&amp;B La Legiun Straniera - Sito ufficiale&#34; class=&#34;project-hero&#34; /&gt;&#xA;&lt;h2 id=&#34;-descrizione&#34;&gt;🛏️ Descrizione&lt;/h2&gt;&#xA;&lt;p&gt;Sito ufficiale del &lt;strong&gt;Bed &amp;amp; Breakfast La Legiun Straniera&lt;/strong&gt;, una casa vacanze accogliente immersa nelle colline di &lt;strong&gt;Fontanelle di Boves&lt;/strong&gt; (CN), in Piemonte.&lt;/p&gt;&#xA;&lt;p&gt;Realizzato utilizzando il &lt;strong&gt;Page Builder di Namecheap&lt;/strong&gt;, il progetto è nato con un &lt;strong&gt;budget molto contenuto&lt;/strong&gt;, ma con grande attenzione all’estetica, alla chiarezza dei contenuti e all’esperienza utente.&lt;br&gt;&#xA;Il sito presenta un &lt;strong&gt;layout pulito&lt;/strong&gt;, supporto &lt;strong&gt;multilingua (Italiano, Inglese, Francese)&lt;/strong&gt; e sezioni ben organizzate per scoprire la struttura, le camere e accedere al sistema di prenotazione esterno.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

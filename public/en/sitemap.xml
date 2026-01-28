@@ -134,6 +134,8 @@
                 href="//localhost:1313/en/progetti/"
                 />
   </url><url>
+    <loc>//localhost:1313/en/tags/agritourism/</loc>
+  </url><url>
     <loc>//localhost:1313/en/</loc>
     <xhtml:link
                 rel="alternate"
@@ -171,6 +173,18 @@
                 />
   </url><url>
     <loc>//localhost:1313/en/contact/</loc>
+  </url><url>
+    <loc>//localhost:1313/en/tags/cultural-heritage/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/cultural-heritage/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/cultural-heritage/"
+                />
   </url><url>
     <loc>//localhost:1313/en/tags/dynamic/</loc>
   </url><url>
@@ -210,6 +224,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/en/tags/mental-coach/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/tags/non-profit/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/non-profit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/non-profit/"
                 />
   </url><url>
     <loc>//localhost:1313/en/tags/personal/</loc>
@@ -283,6 +309,8 @@
                 hreflang="en"
                 href="//localhost:1313/en/tags/"
                 />
+  </url><url>
+    <loc>//localhost:1313/en/tags/tourism/</loc>
   </url><url>
     <loc>//localhost:1313/en/tags/turismo/</loc>
     <xhtml:link

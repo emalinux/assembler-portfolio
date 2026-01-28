@@ -8,10 +8,24 @@
     <language>en</language>
     <atom:link href="//localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Agritourism</title>
+      <link>//localhost:1313/en/tags/agritourism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/tags/agritourism/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Camping</title>
       <link>//localhost:1313/en/tags/camping/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/en/tags/camping/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cultural-Heritage</title>
+      <link>//localhost:1313/en/tags/cultural-heritage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/tags/cultural-heritage/</guid>
       <description></description>
     </item>
     <item>
@@ -50,6 +64,13 @@
       <description></description>
     </item>
     <item>
+      <title>Non-Profit</title>
+      <link>//localhost:1313/en/tags/non-profit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/tags/non-profit/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Personal</title>
       <link>//localhost:1313/en/tags/personal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -82,6 +103,13 @@
       <link>//localhost:1313/en/tags/statico/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/en/tags/statico/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tourism</title>
+      <link>//localhost:1313/en/tags/tourism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/tags/tourism/</guid>
       <description></description>
     </item>
     <item>
