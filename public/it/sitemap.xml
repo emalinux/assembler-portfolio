@@ -124,6 +124,44 @@
   </url><url>
     <loc>//localhost:1313/tags/agriturismo/</loc>
   </url><url>
+    <loc>//localhost:1313/progetti/assembler-studio/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/progetti/assembler-studio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/progetti/assembler-studio/"
+                />
+  </url><url>
+    <loc>//localhost:1313/tags/aziendale/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/bb/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/bb/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/bb/"
+                />
+  </url><url>
+    <loc>//localhost:1313/tags/builder/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/builder/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/builder/"
+                />
+  </url><url>
     <loc>//localhost:1313/tags/camping/</loc>
     <xhtml:link
                 rel="alternate"
@@ -204,6 +242,8 @@
   </url><url>
     <loc>//localhost:1313/tags/ingegneria/</loc>
   </url><url>
+    <loc>//localhost:1313/tags/logistica/</loc>
+  </url><url>
     <loc>//localhost:1313/tags/mental-coach/</loc>
     <xhtml:link
                 rel="alternate"
@@ -215,6 +255,8 @@
                 hreflang="it"
                 href="//localhost:1313/tags/mental-coach/"
                 />
+  </url><url>
+    <loc>//localhost:1313/tags/multilingua/</loc>
   </url><url>
     <loc>//localhost:1313/tags/non-profit/</loc>
     <xhtml:link
@@ -312,6 +354,18 @@
                 href="//localhost:1313/tags/"
                 />
   </url><url>
+    <loc>//localhost:1313/tags/tourism/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/tourism/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/tourism/"
+                />
+  </url><url>
     <loc>//localhost:1313/tags/turismo/</loc>
     <xhtml:link
                 rel="alternate"
@@ -322,6 +376,18 @@
                 rel="alternate"
                 hreflang="it"
                 href="//localhost:1313/tags/turismo/"
+                />
+  </url><url>
+    <loc>//localhost:1313/tags/ux/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/ux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/ux/"
                 />
   </url><url>
     <loc>//localhost:1313/tags/wordpress/</loc>

@@ -14,5 +14,19 @@
       <guid>//localhost:1313/en/progetti/ciapeleta/</guid>
       <description>&lt;img src=&#34;//localhost:1313/img/ciapeleta.webp&#34; alt=&#34;Agriturismo La Ciapeleta - Sito ufficiale&#34; class=&#34;project-hero&#34; /&gt;&#xA;&lt;h2 id=&#34;-description&#34;&gt;🏡 Description&lt;/h2&gt;&#xA;&lt;p&gt;Official website of &lt;strong&gt;La Ciapéleta Farmhouse&lt;/strong&gt;, a wonderful agriturismo with panoramic sea views in Ventimiglia (IM), Italy.&lt;/p&gt;&#xA;&lt;p&gt;Built with &lt;strong&gt;Hugo&lt;/strong&gt; and custom HTML/CSS, the site is &lt;strong&gt;lightweight, fast, and user-friendly&lt;/strong&gt; — perfect even for hillside areas with limited connectivity. Each section was designed to reflect the authentic atmosphere of the property, using warm visuals and clear, welcoming text.&lt;/p&gt;&#xA;&lt;p&gt;It features pages about rooms, restaurant, contact info, and booking.&lt;br&gt;&#xA;The design is minimalist yet cozy, aligned with the visual identity of the farmhouse.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Bed &amp; Breakfast A Me Cà</title>
+      <link>//localhost:1313/en/progetti/ameca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/progetti/ameca/</guid>
+      <description>&lt;img src=&#34;//localhost:1313/img/ameca.webp&#34; alt=&#34;B&amp;B A Me Cà - Official Website&#34; class=&#34;project-hero&#34; /&gt;&#xA;&lt;h2 id=&#34;-description&#34;&gt;🛏️ Description&lt;/h2&gt;&#xA;&lt;p&gt;Official website of &lt;strong&gt;Bed &amp;amp; Breakfast A Me Cà&lt;/strong&gt;, a charming family-run guesthouse located in &lt;strong&gt;Albisola Marina&lt;/strong&gt;, just a few steps from the sea.&lt;/p&gt;&#xA;&lt;p&gt;Designed with a &lt;strong&gt;mobile-first approach&lt;/strong&gt;, the website was built using &lt;strong&gt;Hugo&lt;/strong&gt; and &lt;strong&gt;custom HTML/CSS&lt;/strong&gt;, offering a simple yet refined user experience — ideal for all age groups, including less tech-savvy users.&lt;/p&gt;&#xA;&lt;p&gt;The layout is minimalist yet warm, with a palette inspired by the Ligurian coast.&lt;br&gt;&#xA;It includes essential sections: introduction, photo gallery, contacts, and booking options.&lt;br&gt;&#xA;Optimized for &lt;strong&gt;fast loading&lt;/strong&gt; even on mobile networks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bed &amp; Breakfast - La Legiun Straniera</title>
+      <link>//localhost:1313/en/progetti/legiun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/progetti/legiun/</guid>
+      <description>&lt;img src=&#34;//localhost:1313/img/legiun.webp&#34; alt=&#34;B&amp;B La Legiun Straniera - Official Website&#34; class=&#34;project-hero&#34; /&gt;&#xA;&lt;h2 id=&#34;-description&#34;&gt;🛏️ Description&lt;/h2&gt;&#xA;&lt;p&gt;Official website of &lt;strong&gt;La Legiun Straniera&lt;/strong&gt;, a cozy holiday home nestled in the hills of &lt;strong&gt;Fontanelle di Boves&lt;/strong&gt; (CN), Italy.&lt;/p&gt;&#xA;&lt;p&gt;Built using the &lt;strong&gt;Namecheap Page Builder&lt;/strong&gt;, the project was developed under a &lt;strong&gt;minimal budget&lt;/strong&gt; but with maximum attention to aesthetics and accessibility. The site features a &lt;strong&gt;clean layout&lt;/strong&gt;, &lt;strong&gt;multilingual support (IT/EN/FR)&lt;/strong&gt;, and clear sections for guests to explore the location, discover the rooms, and access external booking platforms.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

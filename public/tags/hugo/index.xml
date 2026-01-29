@@ -42,5 +42,26 @@
       <guid>//localhost:1313/progetti/palawan/</guid>
       <description>&lt;img src=&#34;//localhost:1313/img/palawan.webp&#34; alt=&#34;Palawan Tribe – Dolce Amore&#34; class=&#34;project-hero&#34; /&gt;&#xA;&lt;h2 id=&#34;-descrizione&#34;&gt;🧭 Descrizione&lt;/h2&gt;&#xA;&lt;p&gt;Sito web ufficiale di &lt;strong&gt;Palawan Tribe Dolce Amore&lt;/strong&gt;, un&amp;rsquo;associazione no-profit a sostegno delle comunità indigene di Palawan, nelle Filippine.&lt;/p&gt;&#xA;&lt;p&gt;Sviluppato con ❤️ da Manuel – Assembler Computer, il sito è &lt;strong&gt;multilingue&lt;/strong&gt; (italiano e inglese), veloce, sostenibile e progettato per riflettere il &lt;strong&gt;calore e l&amp;rsquo;armonia&lt;/strong&gt; della vita tribale.&lt;/p&gt;&#xA;&lt;p&gt;Include sezioni dedicate a storia, visioni, galleria fotografica e contatti, tutte ottimizzate per dispositivi mobili e connessioni lente, con &lt;strong&gt;SEO etica&lt;/strong&gt; e zero tracciamento.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Bed &amp; Breakfast A Me Cà</title>
+      <link>//localhost:1313/progetti/ameca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/progetti/ameca/</guid>
+      <description>&lt;img src=&#34;//localhost:1313/img/ameca.webp&#34; alt=&#34;B&amp;B A Me Cà - Sito ufficiale&#34; class=&#34;project-hero&#34; /&gt;&#xA;&lt;h2 id=&#34;-descrizione&#34;&gt;🛏️ Descrizione&lt;/h2&gt;&#xA;&lt;p&gt;Sito ufficiale del &lt;strong&gt;Bed &amp;amp; Breakfast A Me Cà&lt;/strong&gt;, un&amp;rsquo;accogliente struttura a conduzione familiare situata ad &lt;strong&gt;Albisola Marina&lt;/strong&gt;, a pochi passi dal mare.&lt;/p&gt;&#xA;&lt;p&gt;Pensato per una &lt;strong&gt;navigazione mobile-first&lt;/strong&gt;, il sito è stato progettato con &lt;strong&gt;Hugo&lt;/strong&gt; e codice &lt;strong&gt;HTML/CSS personalizzato&lt;/strong&gt;, per offrire un&amp;rsquo;esperienza semplice ma curata, adatta anche a utenti poco esperti.&lt;/p&gt;&#xA;&lt;p&gt;Layout minimalista ma caloroso, con colori che richiamano la Liguria e sezioni essenziali: presentazione, foto, contatti e possibilità di prenotazione. Ottimizzato per caricare velocemente anche su reti mobili.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TB Logistica S.r.l.</title>
+      <link>//localhost:1313/progetti/tb-logistica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/progetti/tb-logistica/</guid>
+      <description>&lt;img src=&#34;//localhost:1313/img/tb.webp&#34; alt=&#34;TB Logistica S.r.l. - Sito ufficiale&#34; class=&#34;project-hero&#34; /&gt;&#xA;&lt;h2 id=&#34;-descrizione&#34;&gt;🚛 Descrizione&lt;/h2&gt;&#xA;&lt;p&gt;Sito vetrina ufficiale di &lt;strong&gt;TB Logistica S.r.l.&lt;/strong&gt;, azienda attiva nel settore dei trasporti e della logistica su scala nazionale.&lt;/p&gt;&#xA;&lt;p&gt;Il progetto è stato realizzato con &lt;strong&gt;Hugo&lt;/strong&gt; come sito statico ad alte prestazioni, con l’obiettivo di comunicare &lt;strong&gt;affidabilità, solidità aziendale e chiarezza dei servizi&lt;/strong&gt;.&lt;br&gt;&#xA;Il layout è pulito, professionale e completamente &lt;strong&gt;responsive&lt;/strong&gt;, pensato per una consultazione rapida sia da desktop che da mobile.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Assembler Studio</title>
+      <link>//localhost:1313/progetti/assembler-studio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/progetti/assembler-studio/</guid>
+      <description>&lt;img src=&#34;//localhost:1313/img/assembler.webp&#34; alt=&#34;Assembler Studio - Portfolio Assembler Computer&#34; class=&#34;project-hero&#34; /&gt;&#xA;&lt;h2 id=&#34;-descrizione&#34;&gt;🧠 Descrizione&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Assembler Studio&lt;/strong&gt; è il sito portfolio ufficiale di &lt;strong&gt;Assembler Computer&lt;/strong&gt;, pensato per raccontare e valorizzare i progetti web realizzati nel tempo, con un approccio &lt;strong&gt;tecnico, essenziale e orientato all’esperienza utente&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Non è un semplice sito vetrina, ma un &lt;strong&gt;progetto strutturato&lt;/strong&gt; che riflette il metodo di lavoro Assembler:&lt;br&gt;&#xA;chiarezza, controllo totale del codice, prestazioni elevate e design funzionale.&lt;/p&gt;&#xA;&lt;p&gt;Il sito è stato sviluppato interamente con &lt;strong&gt;Hugo&lt;/strong&gt;, senza l’uso di temi preconfezionati, per garantire &lt;strong&gt;massima libertà progettuale&lt;/strong&gt; e una base solida, riutilizzabile e scalabile.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

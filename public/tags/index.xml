@@ -15,6 +15,27 @@
       <description></description>
     </item>
     <item>
+      <title>Aziendale</title>
+      <link>//localhost:1313/tags/aziendale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/aziendale/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>B&amp;B</title>
+      <link>//localhost:1313/tags/bb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/bb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Builder</title>
+      <link>//localhost:1313/tags/builder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/builder/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Camping</title>
       <link>//localhost:1313/tags/camping/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -57,10 +78,24 @@
       <description></description>
     </item>
     <item>
+      <title>Logistica</title>
+      <link>//localhost:1313/tags/logistica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/logistica/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Mental-Coach</title>
       <link>//localhost:1313/tags/mental-coach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/tags/mental-coach/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multilingua</title>
+      <link>//localhost:1313/tags/multilingua/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/multilingua/</guid>
       <description></description>
     </item>
     <item>
@@ -106,10 +141,24 @@
       <description></description>
     </item>
     <item>
+      <title>Tourism</title>
+      <link>//localhost:1313/tags/tourism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/tourism/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Turismo</title>
       <link>//localhost:1313/tags/turismo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/tags/turismo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UX</title>
+      <link>//localhost:1313/tags/ux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/ux/</guid>
       <description></description>
     </item>
     <item>

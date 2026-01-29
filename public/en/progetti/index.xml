@@ -50,25 +50,25 @@
       <description>&lt;img src=&#34;//localhost:1313/img/palawan.webp&#34; alt=&#34;Palawan Tribe – Dolce Amore&#34; class=&#34;project-hero&#34; /&gt;&#xA;&lt;h2 id=&#34;-description&#34;&gt;🧭 Description&lt;/h2&gt;&#xA;&lt;p&gt;Official website of &lt;strong&gt;Palawan Tribe Dolce Amore&lt;/strong&gt;, a non-profit association supporting indigenous communities in Palawan, Philippines.&lt;/p&gt;&#xA;&lt;p&gt;Built with ❤️ by Manuel – Assembler Computer, the site is &lt;strong&gt;multilingual&lt;/strong&gt; (Italian &amp;amp; English), fast, sustainable, and designed to reflect the &lt;strong&gt;warmth and harmony&lt;/strong&gt; of tribal life.&lt;/p&gt;&#xA;&lt;p&gt;Includes sections on history, vision, photo gallery, and contact – all optimized for mobile and slow connections, with &lt;strong&gt;ethical SEO&lt;/strong&gt; and zero tracking.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>A Me Cà</title>
+      <title>Bed &amp; Breakfast A Me Cà</title>
       <link>//localhost:1313/en/progetti/ameca/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/en/progetti/ameca/</guid>
-      <description></description>
+      <description>&lt;img src=&#34;//localhost:1313/img/ameca.webp&#34; alt=&#34;B&amp;B A Me Cà - Official Website&#34; class=&#34;project-hero&#34; /&gt;&#xA;&lt;h2 id=&#34;-description&#34;&gt;🛏️ Description&lt;/h2&gt;&#xA;&lt;p&gt;Official website of &lt;strong&gt;Bed &amp;amp; Breakfast A Me Cà&lt;/strong&gt;, a charming family-run guesthouse located in &lt;strong&gt;Albisola Marina&lt;/strong&gt;, just a few steps from the sea.&lt;/p&gt;&#xA;&lt;p&gt;Designed with a &lt;strong&gt;mobile-first approach&lt;/strong&gt;, the website was built using &lt;strong&gt;Hugo&lt;/strong&gt; and &lt;strong&gt;custom HTML/CSS&lt;/strong&gt;, offering a simple yet refined user experience — ideal for all age groups, including less tech-savvy users.&lt;/p&gt;&#xA;&lt;p&gt;The layout is minimalist yet warm, with a palette inspired by the Ligurian coast.&lt;br&gt;&#xA;It includes essential sections: introduction, photo gallery, contacts, and booking options.&lt;br&gt;&#xA;Optimized for &lt;strong&gt;fast loading&lt;/strong&gt; even on mobile networks.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>La Legiun Straniera</title>
+      <title>Bed &amp; Breakfast - La Legiun Straniera</title>
       <link>//localhost:1313/en/progetti/legiun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/en/progetti/legiun/</guid>
-      <description></description>
+      <description>&lt;img src=&#34;//localhost:1313/img/legiun.webp&#34; alt=&#34;B&amp;B La Legiun Straniera - Official Website&#34; class=&#34;project-hero&#34; /&gt;&#xA;&lt;h2 id=&#34;-description&#34;&gt;🛏️ Description&lt;/h2&gt;&#xA;&lt;p&gt;Official website of &lt;strong&gt;La Legiun Straniera&lt;/strong&gt;, a cozy holiday home nestled in the hills of &lt;strong&gt;Fontanelle di Boves&lt;/strong&gt; (CN), Italy.&lt;/p&gt;&#xA;&lt;p&gt;Built using the &lt;strong&gt;Namecheap Page Builder&lt;/strong&gt;, the project was developed under a &lt;strong&gt;minimal budget&lt;/strong&gt; but with maximum attention to aesthetics and accessibility. The site features a &lt;strong&gt;clean layout&lt;/strong&gt;, &lt;strong&gt;multilingual support (IT/EN/FR)&lt;/strong&gt;, and clear sections for guests to explore the location, discover the rooms, and access external booking platforms.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>TB Logistica</title>
+      <title>TB Logistica S.r.l.</title>
       <link>//localhost:1313/en/progetti/tb-logistica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/en/progetti/tb-logistica/</guid>
-      <description></description>
+      <description>&lt;img src=&#34;//localhost:1313/img/tb.webp&#34; alt=&#34;TB Logistica S.r.l. - Official Website&#34; class=&#34;project-hero&#34; /&gt;&#xA;&lt;h2 id=&#34;-description&#34;&gt;🚛 Description&lt;/h2&gt;&#xA;&lt;p&gt;Official showcase website of &lt;strong&gt;TB Logistica S.r.l.&lt;/strong&gt;, a company operating in the field of &lt;strong&gt;transport and logistics&lt;/strong&gt; across Italy.&lt;/p&gt;&#xA;&lt;p&gt;The project was built using &lt;strong&gt;Hugo&lt;/strong&gt; as a high-performance static site generator, with the goal of conveying &lt;strong&gt;reliability, corporate strength, and clarity of services&lt;/strong&gt;.&lt;br&gt;&#xA;It features a &lt;strong&gt;clean, professional, and fully responsive layout&lt;/strong&gt;, designed for seamless browsing on both desktop and mobile.&lt;/p&gt;&#xA;&lt;p&gt;The content structure includes company presentation, offered services, contact information, and key operational details—crafted with &lt;strong&gt;maximum readability and SEO optimization&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hotel Moderno Demonte</title>
@@ -76,6 +76,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/en/progetti/hotel-moderno/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Assembler Studio</title>
+      <link>//localhost:1313/en/progetti/assembler-studio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/progetti/assembler-studio/</guid>
+      <description>&lt;img src=&#34;//localhost:1313/img/assembler.webp&#34; alt=&#34;Assembler Studio - Assembler Computer Portfolio&#34; class=&#34;project-hero&#34; /&gt;&#xA;&lt;h2 id=&#34;-description&#34;&gt;🧠 Description&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Assembler Studio&lt;/strong&gt; is the official portfolio website of &lt;strong&gt;Assembler Computer&lt;/strong&gt;, designed to showcase and enhance the web projects developed over time, with a &lt;strong&gt;technical, minimal, and user experience-oriented approach&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;It’s not just another showcase site, but a &lt;strong&gt;structured project&lt;/strong&gt; that reflects the Assembler workflow:&lt;br&gt;&#xA;clarity, full code control, top performance, and functional design.&lt;/p&gt;&#xA;&lt;p&gt;Built entirely with &lt;strong&gt;Hugo&lt;/strong&gt;, with &lt;strong&gt;no pre-made themes&lt;/strong&gt;, to ensure &lt;strong&gt;maximum creative freedom&lt;/strong&gt;, a solid base, and full scalability.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
