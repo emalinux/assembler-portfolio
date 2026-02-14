@@ -4,7 +4,7 @@ Sito portfolio ufficiale di Assembler Studio.
 
 Progetto statico sviluppato con Hugo Extended, layout personalizzato e architettura modulare orientata a UX, performance e chiarezza strutturale.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3bde555c-2077-4452-87c5-5d88960f2610/deploy-status)](https://app.netlify.com/projects/demospada-reale/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/17d2e0a9-c277-4664-b9c7-b688a2377c72/deploy-status)](https://app.netlify.com/projects/assembler-studio/deploys)
 
 
 ---
