@@ -120,6 +120,13 @@
       <description></description>
     </item>
     <item>
+      <title>Rebranding</title>
+      <link>//localhost:1313/tags/rebranding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/rebranding/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Restaurant</title>
       <link>//localhost:1313/tags/restaurant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

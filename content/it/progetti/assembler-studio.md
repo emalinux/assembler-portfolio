@@ -5,7 +5,7 @@ description: "Sito portfolio e identità digitale di Assembler Computer. Progett
 draft: false
 weight: 0
 tags: ["Hugo", "Portfolio", "UX", "Static", "Multilingua"]
-link: "https://assembler.server-data.eu/" 
+link: "https://assembler-laboratorio.netlify.app/" 
 cliente: "Assembler Computer"
 anno: "2025"
 stack: "Hugo, HTML & CSS personalizzato, JavaScript, i18n, Netlify, GitHub"

@@ -71,6 +71,13 @@
       <description>&lt;img src=&#34;//localhost:1313/img/tb.webp&#34; alt=&#34;TB Logistica S.r.l. - Official Website&#34; class=&#34;project-hero&#34; /&gt;&#xA;&lt;h2 id=&#34;-description&#34;&gt;🚛 Description&lt;/h2&gt;&#xA;&lt;p&gt;Official showcase website of &lt;strong&gt;TB Logistica S.r.l.&lt;/strong&gt;, a company operating in the field of &lt;strong&gt;transport and logistics&lt;/strong&gt; across Italy.&lt;/p&gt;&#xA;&lt;p&gt;The project was built using &lt;strong&gt;Hugo&lt;/strong&gt; as a high-performance static site generator, with the goal of conveying &lt;strong&gt;reliability, corporate strength, and clarity of services&lt;/strong&gt;.&lt;br&gt;&#xA;It features a &lt;strong&gt;clean, professional, and fully responsive layout&lt;/strong&gt;, designed for seamless browsing on both desktop and mobile.&lt;/p&gt;&#xA;&lt;p&gt;The content structure includes company presentation, offered services, contact information, and key operational details—crafted with &lt;strong&gt;maximum readability and SEO optimization&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Assembler Computer – Workshop</title>
+      <link>//localhost:1313/en/progetti/assembler-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/progetti/assembler-lab/</guid>
+      <description>&lt;img src=&#34;//localhost:1313/img/assembler-lab.webp&#34; alt=&#34;Assembler Computer - New workshop website&#34; class=&#34;project-hero&#34; /&gt;&#xA;&lt;h2 id=&#34;-description&#34;&gt;🛠️ Description&lt;/h2&gt;&#xA;&lt;p&gt;Complete redesign of the official website of &lt;strong&gt;Assembler Computer&lt;/strong&gt;, an IT workshop and technical support center based in Cuneo, Italy.&lt;/p&gt;&#xA;&lt;p&gt;The project was born from the need to replace an outdated static structure — both visually and technically — and build a modern, solid, and easily maintainable foundation.&lt;/p&gt;&#xA;&lt;p&gt;The new website was developed using &lt;strong&gt;Hugo&lt;/strong&gt;, with fully custom code, prioritizing:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;service clarity&lt;/li&gt;&#xA;&lt;li&gt;immediate navigation&lt;/li&gt;&#xA;&lt;li&gt;visual consistency with Assembler Studio&lt;/li&gt;&#xA;&lt;li&gt;high performance&lt;/li&gt;&#xA;&lt;li&gt;simple and efficient management&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The structure is essential and focused:&lt;br&gt;&#xA;About, Services, Contact.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Hotel Moderno Demonte</title>
       <link>//localhost:1313/en/progetti/hotel-moderno/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

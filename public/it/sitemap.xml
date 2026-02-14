@@ -110,6 +110,18 @@
                 href="//localhost:1313/progetti/tb-logistica/"
                 />
   </url><url>
+    <loc>//localhost:1313/progetti/assembler-lab/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/progetti/assembler-lab/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/progetti/assembler-lab/"
+                />
+  </url><url>
     <loc>//localhost:1313/progetti/hotel-moderno/</loc>
     <xhtml:link
                 rel="alternate"
@@ -304,6 +316,18 @@
                 rel="alternate"
                 hreflang="it"
                 href="//localhost:1313/"
+                />
+  </url><url>
+    <loc>//localhost:1313/tags/rebranding/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/rebranding/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/rebranding/"
                 />
   </url><url>
     <loc>//localhost:1313/tags/restaurant/</loc>

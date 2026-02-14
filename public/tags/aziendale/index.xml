@@ -14,5 +14,12 @@
       <guid>//localhost:1313/progetti/tb-logistica/</guid>
       <description>&lt;img src=&#34;//localhost:1313/img/tb.webp&#34; alt=&#34;TB Logistica S.r.l. - Sito ufficiale&#34; class=&#34;project-hero&#34; /&gt;&#xA;&lt;h2 id=&#34;-descrizione&#34;&gt;🚛 Descrizione&lt;/h2&gt;&#xA;&lt;p&gt;Sito vetrina ufficiale di &lt;strong&gt;TB Logistica S.r.l.&lt;/strong&gt;, azienda attiva nel settore dei trasporti e della logistica su scala nazionale.&lt;/p&gt;&#xA;&lt;p&gt;Il progetto è stato realizzato con &lt;strong&gt;Hugo&lt;/strong&gt; come sito statico ad alte prestazioni, con l’obiettivo di comunicare &lt;strong&gt;affidabilità, solidità aziendale e chiarezza dei servizi&lt;/strong&gt;.&lt;br&gt;&#xA;Il layout è pulito, professionale e completamente &lt;strong&gt;responsive&lt;/strong&gt;, pensato per una consultazione rapida sia da desktop che da mobile.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Assembler Computer – Laboratorio</title>
+      <link>//localhost:1313/progetti/assembler-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/progetti/assembler-lab/</guid>
+      <description>&lt;img src=&#34;//localhost:1313/img/assembler-lab.webp&#34; alt=&#34;Assembler Computer - Nuovo sito laboratorio&#34; class=&#34;project-hero&#34; /&gt;&#xA;&lt;h2 id=&#34;-descrizione&#34;&gt;🛠️ Descrizione&lt;/h2&gt;&#xA;&lt;p&gt;Restyling completo del sito ufficiale di &lt;strong&gt;Assembler Computer&lt;/strong&gt;, laboratorio informatico e centro assistenza tecnica a Cuneo.&lt;/p&gt;&#xA;&lt;p&gt;Il progetto nasce dall’esigenza di superare una vecchia struttura statica, obsoleta sia graficamente che tecnicamente, e costruire una base moderna, solida e facilmente manutenibile.&lt;/p&gt;&#xA;&lt;p&gt;Il nuovo sito è stato sviluppato con &lt;strong&gt;Hugo&lt;/strong&gt;, con codice completamente personalizzato, privilegiando:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;chiarezza dei servizi&lt;/li&gt;&#xA;&lt;li&gt;navigazione immediata&lt;/li&gt;&#xA;&lt;li&gt;coerenza visiva con Assembler Studio&lt;/li&gt;&#xA;&lt;li&gt;performance elevate&lt;/li&gt;&#xA;&lt;li&gt;semplicità gestionale&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;La struttura è essenziale e focalizzata:&lt;br&gt;&#xA;Chi siamo, Servizi, Contatti.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
