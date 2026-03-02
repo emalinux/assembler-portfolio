@@ -27,6 +27,16 @@
                 />
   </url><url>
     <loc>//localhost:1313/progetti/gestionale-hotel/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/progetti/gestionale-hotel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/progetti/gestionale-hotel/"
+                />
   </url><url>
     <loc>//localhost:1313/progetti/spada-reale/</loc>
     <xhtml:link
@@ -165,6 +175,16 @@
                 />
   </url><url>
     <loc>//localhost:1313/tags/backend/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/backend/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/backend/"
+                />
   </url><url>
     <loc>//localhost:1313/tags/builder/</loc>
     <xhtml:link
@@ -219,8 +239,28 @@
                 />
   </url><url>
     <loc>//localhost:1313/tags/custom-software/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/custom-software/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/custom-software/"
+                />
   </url><url>
     <loc>//localhost:1313/tags/database/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/database/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/database/"
+                />
   </url><url>
     <loc>//localhost:1313/tags/dinamico/</loc>
   </url><url>
@@ -303,6 +343,16 @@
                 />
   </url><url>
     <loc>//localhost:1313/tags/php/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/php/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/php/"
+                />
   </url><url>
     <loc>//localhost:1313/tags/portfolio/</loc>
     <xhtml:link
@@ -425,6 +475,16 @@
                 />
   </url><url>
     <loc>//localhost:1313/tags/vps/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/vps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/vps/"
+                />
   </url><url>
     <loc>//localhost:1313/tags/wordpress/</loc>
     <xhtml:link

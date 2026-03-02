@@ -26,6 +26,18 @@
                 href="//localhost:1313/en/progetti/dpprogetti/"
                 />
   </url><url>
+    <loc>//localhost:1313/en/progetti/gestionale-hotel/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/progetti/gestionale-hotel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/progetti/gestionale-hotel/"
+                />
+  </url><url>
     <loc>//localhost:1313/en/progetti/spada-reale/</loc>
     <xhtml:link
                 rel="alternate"
@@ -184,6 +196,18 @@
                 href="//localhost:1313/en/tags/bb/"
                 />
   </url><url>
+    <loc>//localhost:1313/en/tags/backend/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/backend/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/backend/"
+                />
+  </url><url>
     <loc>//localhost:1313/en/tags/builder/</loc>
     <xhtml:link
                 rel="alternate"
@@ -234,6 +258,30 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/en/tags/cultural-heritage/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/tags/custom-software/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/custom-software/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/custom-software/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/tags/database/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/database/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/database/"
                 />
   </url><url>
     <loc>//localhost:1313/en/tags/dynamic/</loc>
@@ -302,6 +350,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/en/tags/personal/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/tags/php/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/php/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/php/"
                 />
   </url><url>
     <loc>//localhost:1313/en/tags/portfolio/</loc>
@@ -410,6 +470,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/en/tags/ux/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/tags/vps/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/vps/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/vps/"
                 />
   </url><url>
     <loc>//localhost:1313/en/about/</loc>
