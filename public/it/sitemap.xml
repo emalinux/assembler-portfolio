@@ -26,6 +26,8 @@
                 href="//localhost:1313/progetti/dpprogetti/"
                 />
   </url><url>
+    <loc>//localhost:1313/progetti/gestionale-hotel/</loc>
+  </url><url>
     <loc>//localhost:1313/progetti/spada-reale/</loc>
     <xhtml:link
                 rel="alternate"
@@ -162,6 +164,8 @@
                 href="//localhost:1313/tags/bb/"
                 />
   </url><url>
+    <loc>//localhost:1313/tags/backend/</loc>
+  </url><url>
     <loc>//localhost:1313/tags/builder/</loc>
     <xhtml:link
                 rel="alternate"
@@ -213,6 +217,10 @@
                 hreflang="it"
                 href="//localhost:1313/tags/cultural-heritage/"
                 />
+  </url><url>
+    <loc>//localhost:1313/tags/custom-software/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/database/</loc>
   </url><url>
     <loc>//localhost:1313/tags/dinamico/</loc>
   </url><url>
@@ -293,6 +301,8 @@
                 hreflang="it"
                 href="//localhost:1313/tags/personal/"
                 />
+  </url><url>
+    <loc>//localhost:1313/tags/php/</loc>
   </url><url>
     <loc>//localhost:1313/tags/portfolio/</loc>
     <xhtml:link
@@ -413,6 +423,8 @@
                 hreflang="it"
                 href="//localhost:1313/tags/ux/"
                 />
+  </url><url>
+    <loc>//localhost:1313/tags/vps/</loc>
   </url><url>
     <loc>//localhost:1313/tags/wordpress/</loc>
     <xhtml:link
