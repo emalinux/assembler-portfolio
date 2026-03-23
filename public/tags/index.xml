@@ -78,6 +78,13 @@
       <description></description>
     </item>
     <item>
+      <title>Editoriale</title>
+      <link>//localhost:1313/tags/editoriale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/editoriale/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Hotel</title>
       <link>//localhost:1313/tags/hotel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -131,6 +138,13 @@
       <link>//localhost:1313/tags/personal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/tags/personal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal Branding</title>
+      <link>//localhost:1313/tags/personal-branding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/personal-branding/</guid>
       <description></description>
     </item>
     <item>

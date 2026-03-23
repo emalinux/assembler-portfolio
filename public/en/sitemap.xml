@@ -38,6 +38,18 @@
                 href="//localhost:1313/en/progetti/gestionale-hotel/"
                 />
   </url><url>
+    <loc>//localhost:1313/en/progetti/paola-bovero/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/progetti/paola-bovero/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/progetti/paola-bovero/"
+                />
+  </url><url>
     <loc>//localhost:1313/en/progetti/spada-reale/</loc>
     <xhtml:link
                 rel="alternate"
@@ -286,6 +298,8 @@
   </url><url>
     <loc>//localhost:1313/en/tags/dynamic/</loc>
   </url><url>
+    <loc>//localhost:1313/en/tags/editorial/</loc>
+  </url><url>
     <loc>//localhost:1313/en/tags/engineering/</loc>
   </url><url>
     <loc>//localhost:1313/en/tags/hotel/</loc>
@@ -350,6 +364,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/en/tags/personal/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/tags/personal-branding/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/personal-branding/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/personal-branding/"
                 />
   </url><url>
     <loc>//localhost:1313/en/tags/php/</loc>

@@ -92,7 +92,7 @@ Tutto il progetto è versionato su GitHub e pubblicato via Netlify.
 ## 🎯 Obiettivo del progetto
 
 Assembler Laboratorio non è solo un portfolio:
-è uno strumento operativo, una base di partenza per futuri progetti web e una vetrina tecnica pensata per clienti che cercano soluzioni solide, non tentantivi improvvisati.
+è uno strumento operativo, una base di partenza per futuri progetti web e una vetrina tecnica pensata per clienti che cercano soluzioni solide, non tentativi improvvisati.
 
 ---
 
