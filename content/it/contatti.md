@@ -7,7 +7,7 @@ description: "Scrivici per informazioni, preventivi o collaborazioni."
 <p>Siamo qui per aiutarti! Compila il modulo per richiedere informazioni, supporto tecnico o collaborazioni su progetti personalizzati.</p>
 <p><small>I campi con * sono obbligatori</small></p>
 
-📨 <strong>Email:</strong>manuel.assembler@gmail.com<br>
+📨 <strong>Email:</strong> manuel.assembler@gmail.com<br>
 📍 <strong>Sede:</strong> via XX Settembre 11 - Cuneo (CN)<br>
 🌐 <strong>Sito:</strong> <a href="https://www.assemblercomputer.net" target="_blank">https://www.assemblercomputer.net</a>
 
