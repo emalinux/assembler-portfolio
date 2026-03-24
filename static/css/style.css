@@ -730,6 +730,19 @@ form.contact-form button:hover {
   background-color: #fbbf24;
 }
 
+.thank-you-box {
+  margin-top: 2rem;
+  padding: 2rem;
+  background: #111;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.hidden {
+  position: absolute;
+  left: -9999px;
+}
+
 /* ===== VARIABILI TEMA LIGHT ===== */
 html[data-theme='light'] {
   --form-bg: #fff;
