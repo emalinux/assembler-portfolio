@@ -8,7 +8,7 @@ description: "Get in touch for info, quotes or collaborations."
 <p>We’re here to help! Fill out the form to request information, technical support or collaborate with us on a custom project.</p>
 <p><small>Fields marked with * are required</small></p>
 
-📨 <strong>Email:</strong> info@assemblercomputer.net<br>
+📨 <strong>Email: </strong> manuel.assembler@gmail.com<br>
 📍 <strong>Location:</strong> via XX Settembre 11 - Cuneo (Italy)<br>
 🌐 <strong>Website:</strong> <a href="https://www.assemblercomputer.net" target="_blank">www.assemblercomputer.net</a>
 
