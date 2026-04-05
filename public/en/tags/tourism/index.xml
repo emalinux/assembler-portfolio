@@ -8,6 +8,13 @@
     <language>en</language>
     <atom:link href="//localhost:1313/en/tags/tourism/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Hotel Moderno Demonte – Hotel Website</title>
+      <link>//localhost:1313/en/progetti/hotel-moderno/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/progetti/hotel-moderno/</guid>
+      <description>&lt;img src=&#34;//localhost:1313/img/demonte.webp&#34; alt=&#34;Hotel Moderno Demonte&#34; class=&#34;project-hero&#34; /&gt;&#xA;&lt;h2 id=&#34;-overview&#34;&gt;🛠️ Overview&lt;/h2&gt;&#xA;&lt;p&gt;Development of the official website for &lt;strong&gt;Hotel Moderno Demonte&lt;/strong&gt;, a mountain hotel located in the heart of Valle Stura (Northern Italy).&lt;/p&gt;&#xA;&lt;p&gt;The goal of the project was to create a digital presence that feels:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;welcoming&lt;/li&gt;&#xA;&lt;li&gt;authentic&lt;/li&gt;&#xA;&lt;li&gt;connected to the local territory&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The website was built from scratch using &lt;strong&gt;Hugo&lt;/strong&gt;, avoiding traditional CMS platforms in order to ensure:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;fast loading times&lt;/li&gt;&#xA;&lt;li&gt;a lightweight and stable structure&lt;/li&gt;&#xA;&lt;li&gt;long-term maintainability&lt;/li&gt;&#xA;&lt;li&gt;full control over the codebase&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Special attention was given to:&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Agriturismo - La Ciapeleta</title>
       <link>//localhost:1313/en/progetti/ciapeleta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
