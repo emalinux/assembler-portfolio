@@ -1,9 +1,9 @@
 ---
 title: "Camping Piscina Demonte"
 thumb: "img/piscina.webp"
-description: "Sito turistico, realizzato con Hugo e ottimizzato per dispositivi mobili."
+description: "Tourism website, created with Hugo and optimized for mobile devices.."
 draft: false
-weight: 1
+weight: 8
 tags: ["Hugo", "Turismo", "Camping", "Statico"]
 link: "https://campingpiscinademonte.com/"
 cliente: "Camping Piscina Demonte"
@@ -63,7 +63,7 @@ netlify.toml
 
 ## 🛠️ Dev & testing
 
-Per testare il sito in locale:
+To run locally:
 
 ```bash
 hugo server -D

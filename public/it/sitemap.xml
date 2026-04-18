@@ -330,6 +330,8 @@
                 href="//localhost:1313/tags/mental-coach/"
                 />
   </url><url>
+    <loc>//localhost:1313/grazie/</loc>
+  </url><url>
     <loc>//localhost:1313/tags/multilingua/</loc>
   </url><url>
     <loc>//localhost:1313/tags/non-profit/</loc>

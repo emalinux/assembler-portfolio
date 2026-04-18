@@ -50,6 +50,8 @@
                 href="//localhost:1313/en/progetti/paola-bovero/"
                 />
   </url><url>
+    <loc>//localhost:1313/en/progetti/shiatsu-cuneo/</loc>
+  </url><url>
     <loc>//localhost:1313/en/progetti/spada-reale/</loc>
     <xhtml:link
                 rel="alternate"
@@ -302,6 +304,8 @@
   </url><url>
     <loc>//localhost:1313/en/tags/engineering/</loc>
   </url><url>
+    <loc>//localhost:1313/en/tags/formazione/</loc>
+  </url><url>
     <loc>//localhost:1313/en/tags/hotel/</loc>
     <xhtml:link
                 rel="alternate"
@@ -425,6 +429,8 @@
                 hreflang="en"
                 href="//localhost:1313/en/tags/restaurant/"
                 />
+  </url><url>
+    <loc>//localhost:1313/en/tags/shiatsu/</loc>
   </url><url>
     <loc>//localhost:1313/en/tags/static/</loc>
     <xhtml:link
