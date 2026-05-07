@@ -8,6 +8,13 @@
     <language>en</language>
     <atom:link href="//localhost:1313/en/tags/static/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Shiatsu School Cuneo – Training Website</title>
+      <link>//localhost:1313/en/progetti/shiatsu-cuneo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/progetti/shiatsu-cuneo/</guid>
+      <description>&lt;img src=&#34;//localhost:1313/img/shiatsu.webp&#34; alt=&#34;Shiatsu School Cuneo&#34; class=&#34;project-hero&#34; /&gt;&#xA;&lt;h2 id=&#34;-overview&#34;&gt;🛠️ Overview&lt;/h2&gt;&#xA;&lt;p&gt;Development of the official website for &lt;strong&gt;Shiatsu School Cuneo&lt;/strong&gt;, a training center focused on Shiatsu practice and education.&lt;/p&gt;&#xA;&lt;p&gt;The goal of the project was clear:&lt;br&gt;&#xA;to create an online presence &lt;strong&gt;aligned with the nature of the discipline&lt;/strong&gt;, avoiding unnecessary visual noise or over-designed elements.&lt;/p&gt;&#xA;&lt;p&gt;The website was designed to convey:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;balance&lt;/li&gt;&#xA;&lt;li&gt;clarity&lt;/li&gt;&#xA;&lt;li&gt;authenticity&lt;/li&gt;&#xA;&lt;li&gt;trust&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Built entirely with &lt;strong&gt;Hugo&lt;/strong&gt;, the project avoids traditional CMS solutions in order to ensure:&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Paola Bovero – Biografie dell&#39;Anima</title>
       <link>//localhost:1313/en/progetti/paola-bovero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

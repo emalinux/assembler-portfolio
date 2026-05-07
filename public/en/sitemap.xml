@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/en/progetti/piscina/</loc>
+    <loc>//localhost:1313/en/progetti/shiatsu-cuneo/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="//localhost:1313/progetti/piscina/"
+                href="//localhost:1313/progetti/shiatsu-cuneo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/en/progetti/piscina/"
+                href="//localhost:1313/en/progetti/shiatsu-cuneo/"
                 />
   </url><url>
     <loc>//localhost:1313/en/progetti/dpprogetti/</loc>
@@ -49,8 +49,6 @@
                 hreflang="en"
                 href="//localhost:1313/en/progetti/paola-bovero/"
                 />
-  </url><url>
-    <loc>//localhost:1313/en/progetti/shiatsu-cuneo/</loc>
   </url><url>
     <loc>//localhost:1313/en/progetti/spada-reale/</loc>
     <xhtml:link
@@ -134,6 +132,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/en/progetti/legiun/"
+                />
+  </url><url>
+    <loc>//localhost:1313/en/progetti/piscina/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/progetti/piscina/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/progetti/piscina/"
                 />
   </url><url>
     <loc>//localhost:1313/en/progetti/tb-logistica/</loc>
@@ -304,8 +314,6 @@
   </url><url>
     <loc>//localhost:1313/en/tags/engineering/</loc>
   </url><url>
-    <loc>//localhost:1313/en/tags/formazione/</loc>
-  </url><url>
     <loc>//localhost:1313/en/tags/hotel/</loc>
     <xhtml:link
                 rel="alternate"
@@ -431,6 +439,16 @@
                 />
   </url><url>
     <loc>//localhost:1313/en/tags/shiatsu/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/tags/shiatsu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/shiatsu/"
+                />
   </url><url>
     <loc>//localhost:1313/en/tags/static/</loc>
     <xhtml:link
@@ -479,6 +497,8 @@
                 hreflang="en"
                 href="//localhost:1313/en/tags/tourism/"
                 />
+  </url><url>
+    <loc>//localhost:1313/en/tags/training/</loc>
   </url><url>
     <loc>//localhost:1313/en/tags/turismo/</loc>
     <xhtml:link
