@@ -38,6 +38,18 @@
                 href="//localhost:1313/en/progetti/gestionale-hotel/"
                 />
   </url><url>
+    <loc>//localhost:1313/en/progetti/maura-balocco/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="//localhost:1313/progetti/maura-balocco/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/progetti/maura-balocco/"
+                />
+  </url><url>
     <loc>//localhost:1313/en/progetti/paola-bovero/</loc>
     <xhtml:link
                 rel="alternate"
@@ -414,6 +426,8 @@
                 href="//localhost:1313/en/tags/portfolio/"
                 />
   </url><url>
+    <loc>//localhost:1313/en/tags/psychology/</loc>
+  </url><url>
     <loc>//localhost:1313/en/tags/rebranding/</loc>
     <xhtml:link
                 rel="alternate"
@@ -535,6 +549,8 @@
                 hreflang="en"
                 href="//localhost:1313/en/tags/vps/"
                 />
+  </url><url>
+    <loc>//localhost:1313/en/tags/wellness/</loc>
   </url><url>
     <loc>//localhost:1313/en/about/</loc>
   </url><url>
