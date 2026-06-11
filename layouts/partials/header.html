@@ -13,11 +13,11 @@
 
         {{ if eq .Site.Language.Lang "it" }}
           <li><a href="{{ "chi-siamo/" | relLangURL }}">Chi siamo</a></li>
-          <li><a href="{{ "progetti/" | relLangURL }}">Progetti</a></li>
+          <li><a href="{{ "/" | relLangURL }}#progetti">Progetti</a></li>
           <li><a href="{{ "contatti/" | relLangURL }}">Contatti</a></li>
         {{ else if eq .Site.Language.Lang "en" }}
           <li><a href="{{ "about/" | relLangURL }}">About</a></li>
-          <li><a href="{{ "progetti/" | relLangURL }}">Projects</a></li>
+          <li><a href="{{ "/" | relLangURL }}#progetti">Projects</a></li>
           <li><a href="{{ "contact/" | relLangURL }}">Contact</a></li>
         {{ end }}
 
