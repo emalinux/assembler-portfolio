@@ -3,7 +3,7 @@ title: "Iuliana David - Mental Coach"
 thumb: "img/iuliana.webp"
 description: "Sito personale per mental coach multilingua, con pagine statiche e layout responsive."
 draft: false
-weight: 3
+weight: 6
 tags: ["Hugo", "Mental-coach", "Personal", "Static"]
 link: "https://iulianadavid.com/"
 cliente: "Iuliana David - Mental Coach"

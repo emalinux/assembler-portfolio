@@ -3,7 +3,7 @@ title: "Hotel Moderno Demonte – Hotel Website"
 thumb: "img/demonte.webp"
 description: "Official website for Hotel Moderno Demonte. Mountain hotel in Valle Stura with rooms, restaurant and gallery. Custom-built with Hugo."
 draft: false
-weight: 3
+weight: 2
 tags: ["Hugo", "Tourism", "Hotel", "Static", "Multilingual"]
 link: "https://hoteldemonte.com/"
 cliente: "Hotel Moderno Demonte"

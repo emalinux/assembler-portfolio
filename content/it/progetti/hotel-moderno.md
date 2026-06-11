@@ -3,7 +3,7 @@ title: "Hotel Moderno Demonte – Sito Web Struttura Ricettiva"
 thumb: "img/demonte.webp"
 description: "Sito ufficiale Hotel Moderno Demonte. Struttura ricettiva in Valle Stura con camere, ristorante e galleria. Sviluppo custom con Hugo."
 draft: false
-weight: 3
+weight: 2
 tags: ["Hugo", "Turismo", "Hotel", "Statico", "Multilingua"]
 link: "https://hoteldemonte.com/"
 cliente: "Hotel Moderno Demonte"
